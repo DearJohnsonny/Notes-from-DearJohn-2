@@ -25,9 +25,9 @@ Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导�
 
 ![image](https://user-images.githubusercontent.com/111955215/187058510-3ce609ca-8e92-44a2-a1b4-3ae0f0271c15.png)
 
-修复方法有两种：非同源末端连接（Non-homologous End Joining-NHEJ)和同源引导修复homology-directed repair(HDR)；
+修复方法有两种：**非同源末端连接**（Non-homologous End Joining, **NHEJ**)和**同源引导修复**homology-directed repair(**HDR**)；
 
-非同源末端连接又分为经典非同源末端连接(classical nonhomologous end-joining, c-NHEJ)和微同源末端连接(microhomology-mediated end-joining, MMEJ or alt-NHEJ)
+非同源末端连接又分为经典非同源末端连接(classical nonhomologous end-joining, **c-NHEJ**)和微同源末端连接(microhomology-mediated end-joining, **MMEJ or alt-NHEJ**)
 
-同源引导修复又分为单链寡核苷酸供体（single-stranded oligonucleotide donors）和双链DNA供体
+同源引导修复又分为单链寡核苷酸供体（single-stranded oligonucleotide donors, ssODNs）和双链DNA供体
 ## 转座子
