@@ -44,18 +44,19 @@ Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导�
 * 电转的方式将RNP和dsDNA一起递送
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187063342-9f486748-b1b0-45c3-85d4-7b4384a25ed2.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/187063342-9f486748-b1b0-45c3-85d4-7b4384a25ed2.png" width="900">
 </div>
 
 * 在RNP上修饰一个NLS（细胞核定向序列），帮助定向到细胞核中
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187063236-27eb9bbf-f091-4b78-a684-87cb053f21bb.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/187063236-27eb9bbf-f091-4b78-a684-87cb053f21bb.png" width="900">
 </div>
 
 * 单链的HDR毒性更低，因此可以采用这个思路：两端是dsDNA从而带有CTS（Cas9 targeted sequence）
-
-![image](https://user-images.githubusercontent.com/111955215/187073916-7561faa5-642f-4217-be03-089a053ea6cb.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187073916-7561faa5-642f-4217-be03-089a053ea6cb.png" width="900">
+</div>
 
 ### 通过碱基编辑器来实现基因编辑
 * 碱基编辑器精确地导致靶点突变，而不需要 DSB 或供体 DNA 模板，也不依赖 HDR。
