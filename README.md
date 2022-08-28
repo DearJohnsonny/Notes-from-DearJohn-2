@@ -55,7 +55,7 @@ Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导�
 
 * 单链的HDR毒性更低，因此可以采用这个思路：两端是dsDNA从而带有CTS（Cas9 targeted sequence）
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187073916-7561faa5-642f-4217-be03-089a053ea6cb.png" width="900">
+<img src="https://user-images.githubusercontent.com/111955215/187073916-7561faa5-642f-4217-be03-089a053ea6cb.png" width="500">
 </div>
 
 ### 通过碱基编辑器来实现基因编辑
