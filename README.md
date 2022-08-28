@@ -10,6 +10,8 @@ Notes from DearJohn-2
 ## 基于CRISPR的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：nucleases(核酸酶), base editors(碱基编辑器), transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
 
+Homology-directed repair (HDR); cytosine base editor (CBE); adenine base editor (ABE); end-joining (EJ); prime editor (PE); uracil glycosylase inhibitor (UGI); protospacer adjacent motif (PAM).
+
 ![1](https://user-images.githubusercontent.com/111955215/187057959-382192c9-397a-4806-9f42-76560272313f.png)
 
 ## 转座子
