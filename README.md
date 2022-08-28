@@ -20,11 +20,14 @@ Homology-directed repair (HDR); cytosine base editor (CBE); adenine base editor 
 ![image](https://user-images.githubusercontent.com/111955215/187058140-b2c8f4a8-70f9-4476-a906-cbe32609aa85.png)
 
 Cas9在protospacer序列上产生切割，大约在PAM前3bp的位置，且会用Cas9上两个不同的结构域（RuvC and HNH）进行切割；
+
 Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导向核酸也是crRNA而不是gRNA。
 
 ![image](https://user-images.githubusercontent.com/111955215/187058510-3ce609ca-8e92-44a2-a1b4-3ae0f0271c15.png)
+
 修复方法有两种：非同源末端连接（Non-homologous End Joining-NHEJ)和同源引导修复homology-directed repair(HDR)；
 
 非同源末端连接又分为经典非同源末端连接(classical nonhomologous end-joining, c-NHEJ)和微同源末端连接(microhomology-mediated end-joining, MMEJ or alt-NHEJ)
 
+同源引导修复又分为单链寡核苷酸供体（single-stranded oligonucleotide donors）和双链DNA供体
 ## 转座子
