@@ -29,15 +29,15 @@ Homology-directed repair (HDR); cytosine base editor (CBE); adenine base editor 
 
 
 高浓度的dsDNA容易产生毒性，而ssODN会好很多。
-以RNP复合物形式递送 CRISPR-Cas 系统通常导致更低水平的脱靶修饰（如下图）
+**以RNP复合物形式递送 CRISPR-Cas 系统通常导致更低水平的脱靶修饰（如下图）**
 
-电转的方式将RNP和dsDNA一起递送
+* 电转的方式将RNP和dsDNA一起递送
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187063342-9f486748-b1b0-45c3-85d4-7b4384a25ed2.png" width="600">
 </div>
 
-在RNP上修饰一个NLS（细胞核定向序列），帮助定向到细胞核中
+* 在RNP上修饰一个NLS（细胞核定向序列），帮助定向到细胞核中
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187063236-27eb9bbf-f091-4b78-a684-87cb053f21bb.png" width="600">
