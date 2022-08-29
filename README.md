@@ -9,6 +9,22 @@ Notes from DearJohn-2
 ## Car-T
 ![123](https://user-images.githubusercontent.com/111955215/187198651-62752b2b-988d-4f0f-bd8b-037fbd688aeb.png)
 
+按照每个元件所处的位置，CAR主要分为三个功能区域，分别是：胞外结构域 、 跨膜结构域 和 胞内结构域 。
+
+![image](https://user-images.githubusercontent.com/111955215/187200834-9bd29eca-83bf-46e9-84c7-9b6ae890b38d.png)
+
+胞外结构域由负责识别并结合抗原的单克隆抗体的单链可变片段（single-chain variable fragment，scFv）及一段起连接作用的铰链区（Hinge）构成。
+scFv由单克隆抗体的轻链（VL）和重链（VH）通过多肽连接而成，保留有抗体对抗原的特异性和亲和力。CAR-T细胞通过scFv对靶抗原的识别结合不依赖MHC抗原呈递，一方面避免了肿瘤细胞通过调节MHC分子发生逃逸，另一方面赋予了CAR-T细胞识别非肽抗原的能力（虽然目前主要还是识别CD19）。
+
+胞内结构域由共刺激结构域（Costimulatory Domain）和信号转导结构域（Signaling Domain）构成。
+
+### Car-T的问题
+* **无法深入实体瘤内部，因此对实体瘤作用效果差**：CAR对抗原的亲和力则是极其强大，有时强大到它和抗原拽都拽不开；因为强大的亲和力，CAR-T细胞常常阻滞在实体瘤的外周，而不像TCR-T那样毫无羁绊。同时许多实体瘤内部存在**异质性**，即会有不同类型的肿瘤细胞，这些细胞相互之间携带的抗原和表达水平都有所不同，如果CAR-T仅对部分肿瘤细胞有效，治疗就很难成功。肿瘤细胞适应了瘤内弱酸性、低氧、缺乏营养的**特殊肿瘤微环境**，同时还有不利于CAR-T细胞生存的抑制因子和抑制细胞。 
+* **脱靶效应**：CAR-T靶向肿瘤相关抗原，并非肿瘤细胞特异性的，正常细胞也可能受到攻击
+* **稳定性差**：引入的CAR受体为外源性分子，具有一定的免疫原性，机体会产生针对CAR的抗抗体，会影响CAR-T细胞的存活。此外CAR分子使用的scFV不稳定，容易发生自身聚集，引发CRS。
+
+![1](https://user-images.githubusercontent.com/111955215/187201339-b35a7ff0-6634-448d-85c5-319ed79544fa.png)
+
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
 
