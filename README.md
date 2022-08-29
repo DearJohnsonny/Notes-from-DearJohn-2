@@ -46,7 +46,7 @@ TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互
 
 总结如下：
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.pngg" width="700">
+<img src="https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.png" width="700">
 </div>
 
 <div align=center>
