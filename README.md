@@ -41,8 +41,10 @@ TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互
 </div>
 
 总结如下：
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.pngg" width="700">
+</div>
 
-![image](https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.png)
 
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
