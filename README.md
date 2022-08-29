@@ -25,7 +25,9 @@ scFv由单克隆抗体的轻链（VL）和重链（VH）通过多肽连接而成
 
 ![1](https://user-images.githubusercontent.com/111955215/187201339-b35a7ff0-6634-448d-85c5-319ed79544fa.png)
 
-![black_hole_at_work_by_artdiffuser_dfacqfv](https://user-images.githubusercontent.com/111955215/187209688-bfb04b5a-b8c8-4cea-ae3a-531712b06595.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187209688-bfb04b5a-b8c8-4cea-ae3a-531712b06595.png" width="1500">
+</div>
 
 ## TCR-T
 ### 关于T细胞
@@ -47,7 +49,9 @@ TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互
 <img src="https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.pngg" width="700">
 </div>
 
-![have_fun__by_nago00_dfay64w](https://user-images.githubusercontent.com/111955215/187209528-ade34db8-c836-4908-aa16-795f5cd5281f.jpg)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187209528-ade34db8-c836-4908-aa16-795f5cd5281f.jpg" width="1500">
+</div>
 
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
