@@ -96,7 +96,9 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 
 ## crispr工具的补充-迷你核酸酶IscB和TnpB
 来自于IS200/605转座子家族的IscB和TnpB，它们在微生物中广泛分布，被认为是CRISPR/Cas9和Cas12系统的起源。它们的最大特点是非常短的CDS序列，在1.2kb左右，体积不到spCas9的1/3，留下了巨大的改造空间。
+Zhang Feng将这个系统称为Ω系统。Ω系统与其他已知RNA引导的DNA靶向系统的比较（CRISPR系统通过捕获间隔序列并储存在CRISPR阵列基因座中，与CRISPR系统不同，Ω系统可以将它们的基因座转置到靶标序列中，将靶标转化为ωRNA guides）
 
+![image](https://user-images.githubusercontent.com/111955215/187116932-8787573f-16eb-45bd-b258-4af059a1cc35.png)
 ### IscB
 从蛋白结构预测分析中，我们能够看到IscB同样存在RuvC和HNH两个酶活性位点
 
