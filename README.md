@@ -99,7 +99,7 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 </div>
 
 ## crispr工具的补充-迷你核酸酶IscB和TnpB
-来自于IS200/605转座子家族的IscB和TnpB，它们在微生物中广泛分布，被认为是CRISPR/Cas9和Cas12系统的起源。它们的最大特点是非常短的CDS序列，在1.2kb左右，体积不到spCas9的1/3，留下了巨大的改造空间。
+来自于IS200/605转座子家族的IscB和TnpB，它们在微生物中广泛分布，被认为是CRISPR/Cas9和Cas12系统的起源。它们的最大特点是非常短的CDS序列，在1.2kb左右，体积不到spCas9的1/3，留下了**巨大的改造空间**。
 Zhang Feng将这个系统称为Ω系统。Ω系统与其他已知RNA引导的DNA靶向系统的比较（CRISPR系统通过捕获间隔序列并储存在CRISPR阵列基因座中，与CRISPR系统不同，Ω系统可以将它们的基因座转置到靶标序列中，将靶标转化为ωRNA guides）
 
 ![image](https://user-images.githubusercontent.com/111955215/187116932-8787573f-16eb-45bd-b258-4af059a1cc35.png)
@@ -129,7 +129,12 @@ IS200/IS605家族的Deinococcus radiodurans ISDra2中包含tnpA和tnpB基因，�
 
 在纯化TnpB的过程中，作者发现有许多RNA也被一同纯化。对TnpB结合的RNA进行small RNA测序（sRNA-seq）分析，发现它们大多是长度约为150nt的长非编码RNA，来源于ISDra2中的RE序列，作者将这些RNA称为reRNAs（right element RNA）。reRNA 3’端的16nt来源于IS200/IS605转座子的侧翼DNA序列，其余序列与TnpB基因的3’端和RE序列匹配，说明TnpB可以与转座子3’端来源的reRNA形成RNP复合物。
 
-PAM（protospacer adjacent motif）序列是Cas9或Cas12核酸酶启动DNA切割所必须的，那么TnpB发挥作用可能也需要类似的序列。通过PAM鉴定实验，作者观察到在目标基因5’端上游富集了大量的TTGAT序列，并称之为**Transposon Associated Motif (TAM)**。体外DNA切割实验证实**TnpB具备RNA引导的靶向dsDNA的核酸酶活性**。进一步分析发现，将TnpB序列中的RuvC-like活性位点突变后，TnpB失去了切割能力，说明RuvC模块与TnpB的活性相关。研究人员发现实现TnpB的DNA切割功能需要同时满足两个条件：（1）TAM序列；（2）与靶基因匹配的位于reRNA 3’端的序列。
+PAM（protospacer adjacent motif）序列是Cas9或Cas12核酸酶启动DNA切割所必须的，那么TnpB发挥作用可能也需要类似的序列。通过PAM鉴定实验，作者观察到在目标基因5’端上游富集了大量的**TTGAT**序列，并称之为**Transposon Associated Motif (TAM)**。体外DNA切割实验证实**TnpB具备RNA引导的靶向dsDNA的核酸酶活性**。进一步分析发现，将TnpB序列中的RuvC-like活性位点突变后，TnpB失去了切割能力，说明RuvC模块与TnpB的活性相关。研究人员发现实现TnpB的DNA切割功能需要同时满足两个条件：（1）TAM序列；（2）与靶基因匹配的位于reRNA 3’端的序列。
+
+TnpA 介导的 ISDra2的“剥离和粘贴”转座机制。TnpA 二聚体在 DNA 复制过程中催化从滞后链切除转座子，形成环形单链 DNA 中间体和供体关节。切除的转座子圆在受体连接处插入落后的 DNA 链3′至 TTGAT 序列，完成转座周期。转座子切除/插入位点用红色三角形标记。
+![image](https://user-images.githubusercontent.com/111955215/187118202-db16d521-124d-42f6-8dee-543945e0a835.png)
 
 
 随后，作者对切割产物进行了测序分析，结果显示，TnpB采取的是一种交错切割模式，在NTS（non-target strand）的多个位置和 TS (target strand) 的单个位置进行切割，最终产生5’-悬挂端（overhangs）
+
+![image](https://user-images.githubusercontent.com/111955215/187118227-4f60f867-c9ea-45a2-8062-9772c22aad24.png)
