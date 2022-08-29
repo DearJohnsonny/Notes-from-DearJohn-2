@@ -108,9 +108,24 @@ Zhang Feng将这个系统称为Ω系统。Ω系统与其他已知RNA引导的DNA
 
 ![image](https://user-images.githubusercontent.com/111955215/187116044-606d96dc-9b4c-458f-a841-d0f3cbf10c83.png)
 
+通过体外DNA切割实验，研究者发现IscB具备由ωRNA引导识别(下图)并切割特定DNA双链序列的能力，其PAM序列也被作者称为TAM(target-adjacent motif)。不同于spCas9的是，IscB的切口是粘性末端(下图)。
+
+![image](https://user-images.githubusercontent.com/111955215/187117727-5e5e0dcb-de0c-4f8d-b36c-c30a5922ac74.png)
+
+![image](https://user-images.githubusercontent.com/111955215/187117793-13a82a7d-7b79-4cf5-a156-6f24385789b8.png)
+
 从目前的结果来看，部分IscB蛋白能够编辑人细胞的基因组序列，但编辑效率还明显低于spCas9，最高也只有2%左右。
 
 SUM UP: IscB已经具备了很多spCas9的优点，比如有两个酶活性位点，分别负责一条DNA单链的切割；又比如ωRNA的结构较为复杂，便于进行改造。而IscB最大的优势还是其非常小的体积，为递送提供了极大的便利，同时也就腾出了巨大的改造空间。
 
 ### TnpB
+IS200/IS605家族的Deinococcus radiodurans ISDra2中包含tnpA和tnpB基因，以及位于两侧的LE（Left element）和RE（Right element）。crispr依赖的转座酶（上一part）也是这样的序列结构。
 
+![image](https://user-images.githubusercontent.com/111955215/187117222-64c33d7c-be0c-455e-85b0-ad12f35923d5.png)
+
+在纯化TnpB的过程中，作者发现有许多RNA也被一同纯化。对TnpB结合的RNA进行small RNA测序（sRNA-seq）分析，发现它们大多是长度约为150nt的长非编码RNA，来源于ISDra2中的RE序列，作者将这些RNA称为reRNAs（right element RNA）。reRNA 3’端的16nt来源于IS200/IS605转座子的侧翼DNA序列，其余序列与TnpB基因的3’端和RE序列匹配，说明TnpB可以与转座子3’端来源的reRNA形成RNP复合物。
+
+PAM（protospacer adjacent motif）序列是Cas9或Cas12核酸酶启动DNA切割所必须的，那么TnpB发挥作用可能也需要类似的序列。通过PAM鉴定实验，作者观察到在目标基因5’端上游富集了大量的TTGAT序列，并称之为**Transposon Associated Motif (TAM)**。体外DNA切割实验证实**TnpB具备RNA引导的靶向dsDNA的核酸酶活性**。进一步分析发现，将TnpB序列中的RuvC-like活性位点突变后，TnpB失去了切割能力，说明RuvC模块与TnpB的活性相关。研究人员发现实现TnpB的DNA切割功能需要同时满足两个条件：（1）TAM序列；（2）与靶基因匹配的位于reRNA 3’端的序列。
+
+
+随后，作者对切割产物进行了测序分析，结果显示，TnpB采取的是一种交错切割模式，在NTS（non-target strand）的多个位置和 TS (target strand) 的单个位置进行切割，最终产生5’-悬挂端（overhangs）
