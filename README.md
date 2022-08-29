@@ -29,13 +29,19 @@ scFv由单克隆抗体的轻链（VL）和重链（VH）通过多肽连接而成
 ### 关于T细胞
 ![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
 
-### TCR与CAR
+### TCR与CAR的异同
 ![image](https://user-images.githubusercontent.com/111955215/187206729-806e37c9-03a0-49dc-b863-0961077517de.png)
 
 不同于CAR-T细胞只能识别细胞膜外的蛋白质，TCR-T细胞的主要优势是能够识别细胞外和细胞内的蛋白，而超过85%的细胞蛋白位于细胞内，所以对于实体瘤，TCR-T可以发挥更好的作用。
 
 TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互作用，pMHC即为肽结合于MHC形成的复合物。来自T细胞的TCR必须与患者的人类白细胞抗原（HLA）等位基因匹配，识别这些pMHC并杀伤癌细胞。因此rTCR需要MLA和抗原同时表达，但是CAR-T直接识别膜蛋白
-![1](https://user-images.githubusercontent.com/111955215/187208815-1fc7ad11-0845-4a3b-8ea6-9a4c3d61273d.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187208815-1fc7ad11-0845-4a3b-8ea6-9a4c3d61273d.png" width="1000">
+</div>
+总结如下：
+
+![image](https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.png)
 
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
