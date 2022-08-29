@@ -90,3 +90,21 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 
 ![image](https://user-images.githubusercontent.com/111955215/187115301-543520ce-7ece-41d1-970d-21ebdd16aebd.png)
 
+## crispr工具的补充-迷你核酸酶IscB和TnpB
+来自于IS200/605转座子家族的IscB和TnpB，它们在微生物中广泛分布，被认为是CRISPR/Cas9和Cas12系统的起源。它们的最大特点是非常短的CDS序列，在1.2kb左右，体积不到spCas9的1/3，留下了巨大的改造空间。
+
+### IscB
+从蛋白结构预测分析中，我们能够看到IscB同样存在RuvC和HNH两个酶活性位点
+
+![image](https://user-images.githubusercontent.com/111955215/187115991-0b0afac8-aa91-45a2-a963-198956b0399a.png)
+
+借助RNA测序和RNA-pulldown等技术手段，研究者也找到了IscB对应的sgRNA，其结构比spCas9的sgRNA还要更加复杂，被作者称为ωRNA
+
+![image](https://user-images.githubusercontent.com/111955215/187116044-606d96dc-9b4c-458f-a841-d0f3cbf10c83.png)
+
+从目前的结果来看，部分IscB蛋白能够编辑人细胞的基因组序列，但编辑效率还明显低于spCas9，最高也只有2%左右。
+
+SUM UP: IscB已经具备了很多spCas9的优点，比如有两个酶活性位点，分别负责一条DNA单链的切割；又比如ωRNA的结构较为复杂，便于进行改造。而IscB最大的优势还是其非常小的体积，为递送提供了极大的便利，同时也就腾出了巨大的改造空间。
+
+### TnpB
+
