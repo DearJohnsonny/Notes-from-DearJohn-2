@@ -37,8 +37,9 @@ scFv由单克隆抗体的轻链（VL）和重链（VH）通过多肽连接而成
 TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互作用，pMHC即为肽结合于MHC形成的复合物。来自T细胞的TCR必须与患者的人类白细胞抗原（HLA）等位基因匹配，识别这些pMHC并杀伤癌细胞。因此rTCR需要MLA和抗原同时表达，但是CAR-T直接识别膜蛋白
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187208815-1fc7ad11-0845-4a3b-8ea6-9a4c3d61273d.png" width="1000">
+<img src="https://user-images.githubusercontent.com/111955215/187208815-1fc7ad11-0845-4a3b-8ea6-9a4c3d61273d.png" width="700">
 </div>
+
 总结如下：
 
 ![image](https://user-images.githubusercontent.com/111955215/187209038-c76e0355-7b17-4260-8156-fa358a07ba53.png)
