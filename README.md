@@ -24,6 +24,8 @@ Notes from DearJohn-2
 ### 共受体扫描模型
 低亲和力的抗原在共受体的扫描下会离去而不会导致信号通路激活
 
+![image](https://user-images.githubusercontent.com/111955215/187329817-ddd641b8-1de3-4ea6-9d26-2d8527853d12.png)
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187328231-564c8b09-2b38-4e16-8257-bb5927e61315.png" width="1500">
 </div>
