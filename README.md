@@ -6,7 +6,9 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
 </div>
 
-## T细胞受体
+# 关于T细胞和细胞治疗
+
+## T细胞受体信号
 ![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
 
 ### 动态隔离模型“size exclusion” model
