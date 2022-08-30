@@ -16,6 +16,10 @@ Notes from DearJohn-2
  
  ![image](https://user-images.githubusercontent.com/111955215/187327934-0a825e56-8dc3-419c-ba2e-3374665df2b7.png)
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187328231-564c8b09-2b38-4e16-8257-bb5927e61315.png" width="1500">
+</div>
+
 ## Car-T
 ![123](https://user-images.githubusercontent.com/111955215/187198651-62752b2b-988d-4f0f-bd8b-037fbd688aeb.png)
 
