@@ -31,6 +31,10 @@ Lck是一种丝氨酸蛋白激酶，位于胞内且可以和CD4/8共受体结合
 
 ![image](https://user-images.githubusercontent.com/111955215/187329817-ddd641b8-1de3-4ea6-9d26-2d8527853d12.png)
 
+### 动力学校对模型
+![image](https://user-images.githubusercontent.com/111955215/187332536-1958948c-4cf1-4586-bbb8-e55fd973a40a.png)
+
+
 ### 串行参与模型（serial engagement model）
 常与动力学校对机制并列提及。该模型阐述 TCR 与pMHC 达成紧密结合就像接力一样，即单个 pMHC 可与多个 TCR 进行连续性的接触，而这些连续性接触积累起来的结果，使得 TCR 与 pMHC 达到紧密结合，最终导致 T 细胞的完全活化
 <div align=center>
