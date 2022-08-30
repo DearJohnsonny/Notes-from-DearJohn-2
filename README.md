@@ -6,6 +6,16 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
 </div>
 
+## T细胞受体
+![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
+
+### 动态隔离模型“size exclusion” model
+ 当 TCR 复合物与 pMHC 复合物结合后， 会与抗原提呈细胞之间形成免疫突触。动态隔离模型（kinetic segregation model）可描述为在免疫突触中， TCR 处于中心位置并形成“紧密结合区域”（close contact zones），进而排斥一些大分子蛋白，如磷酸酶 CD45 分子。这种机制最终导致的结果即为TCR/CD3 近端的激酶和磷酸酶平衡失调，从而使得 CD3 被磷酸化，促进 T 细胞活化和信号转导。在CAR 与靶细胞特异性表达抗原结合的表面，CD45 同样处于被排除状态以促进信号转导。因此，动态隔离模型在 CAR 信号中也许同样重要。
+ 
+ 天然的TCR长度是相对固定的，但是人工设计的Car的长度可以改变。有研究者提出Car的长度与激活的关系：Car足够短，才能在与抗原peptide和MHC结合时将CD45排除在外，有用的磷酸酶才可以过来将Car磷酸化，产生激活信号。
+ 
+ ![image](https://user-images.githubusercontent.com/111955215/187327934-0a825e56-8dc3-419c-ba2e-3374665df2b7.png)
+
 ## Car-T
 ![123](https://user-images.githubusercontent.com/111955215/187198651-62752b2b-988d-4f0f-bd8b-037fbd688aeb.png)
 
