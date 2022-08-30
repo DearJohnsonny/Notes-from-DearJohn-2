@@ -9,9 +9,13 @@ Notes from DearJohn-2
 # 关于T细胞和细胞治疗
 
 ## T细胞受体信号
+![image](https://user-images.githubusercontent.com/111955215/187328881-50cf2797-5fb7-42ca-a9f8-0013f3683008.png)
+
 ![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
 
-![image](https://user-images.githubusercontent.com/111955215/187328881-50cf2797-5fb7-42ca-a9f8-0013f3683008.png)
+(A) Lck 和 Zap70 存在于严格的信号层次结构中。 (B) Zap70经历逐步激活，这需要将其募集到 TCR 复合物中的磷酸化免疫受体酪氨酸激活基序 (ITAM) 及其Lck 磷酸化。 (C) Zap70 包含一个对其底物特异性很重要的高度碱性区域。 Zap70 的基本区域充当静电过滤器确保对 LAT 和 SLP-76 中磷酸位点的特异性，并防止 ITAM 和 Zap70 激活环的磷酸化。 (D) Zap70 Y126 的磷酸化是建议使其从 TCR 复合物中释放，使其可以迁移并遇到 LAT 使其磷酸化。同时，额外的Zap70分子能够结合TCR复合物并被激活，表明 TCR 信号放大模式
+
+![1](https://user-images.githubusercontent.com/111955215/187331004-93a57616-8a6a-41fb-8722-1088bf2d4244.png)
 
 ### 动态隔离模型“size exclusion” model
  当 TCR 复合物与 pMHC 复合物结合后， 会与抗原提呈细胞之间形成免疫突触。动态隔离模型（kinetic segregation model）可描述为在免疫突触中， TCR 处于中心位置并形成“紧密结合区域”（close contact zones），进而排斥一些大分子蛋白，如磷酸酶 CD45 分子。这种机制最终导致的结果即为TCR/CD3 近端的激酶和磷酸酶平衡失调，从而使得 CD3 被磷酸化，促进 T 细胞活化和信号转导。在CAR 与靶细胞特异性表达抗原结合的表面，CD45 同样处于被排除状态以促进信号转导。因此，动态隔离模型在 CAR 信号中也许同样重要。
@@ -22,7 +26,8 @@ Notes from DearJohn-2
 
 ![image](https://user-images.githubusercontent.com/111955215/187329398-cfe0fe6c-d563-4975-94d6-75772768b771.png)
 ### 共受体扫描模型
-低亲和力的抗原在共受体的扫描下会离去而不会导致信号通路激活
+低亲和力的抗原在共受体的扫描下会离去而不会导致信号通路激活。
+Lck是一种丝氨酸蛋白激酶，位于胞内且可以和CD4/8共受体结合，其激活也依赖自身被磷酸化。Lck活化越多T细胞越容易被激活。
 
 ![image](https://user-images.githubusercontent.com/111955215/187329817-ddd641b8-1de3-4ea6-9d26-2d8527853d12.png)
 
