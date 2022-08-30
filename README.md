@@ -13,6 +13,7 @@ Notes from DearJohn-2
 
 ![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
 
+**关于Zap70**：
 (A) Lck 和 Zap70 存在于严格的信号层次结构中。 (B) Zap70经历逐步激活，这需要将其募集到 TCR 复合物中的磷酸化免疫受体酪氨酸激活基序 (ITAM) 及其Lck 磷酸化。 (C) Zap70 包含一个对其底物特异性很重要的高度碱性区域。 Zap70 的基本区域充当静电过滤器确保对 LAT 和 SLP-76 中磷酸位点的特异性，并防止 ITAM 和 Zap70 激活环的磷酸化。 (D) Zap70 Y126 的磷酸化是建议使其从 TCR 复合物中释放，使其可以迁移并遇到 LAT 使其磷酸化。同时，额外的Zap70分子能够结合TCR复合物并被激活，表明 TCR 信号放大模式
 
 ![1](https://user-images.githubusercontent.com/111955215/187331004-93a57616-8a6a-41fb-8722-1088bf2d4244.png)
