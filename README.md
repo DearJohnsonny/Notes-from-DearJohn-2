@@ -165,10 +165,20 @@ CBE使用**胞苷脱氨酶**将R环内的胞嘧啶转化为尿嘧啶，聚合酶
 
 ![image](https://user-images.githubusercontent.com/111955215/187060579-48a2284c-6ca5-4a66-87a0-bb3583a00b04.png)
 
-#### Cas相关的转座酶
+### Cas相关的转座酶
 Tn7样转座子通常含有 tnsA、 tnsB、 tnsC、 tnsD 和 tnsE 基因，以及其他遗传货物。通常，TnsA 和 TnsB 形成特异性识别左端(LE)和右端(RE)基序的 TnsAB 复合物，其侧翼转座子并催化从供体基因座切除转座子。TnsB 是逆转录病毒整合酶超家族的成员，并催化磷酸二酯骨架的3’切割，而 FokI 样蛋白 TnsA 随后催化5’末端的切割。然后，TnsB 将转座子 DNA 的游离3’末端连接到由 TnsD 或 TnsE 底物分配结构域确定的靶 DNA 底物，在5’连接处留下小的间隙。这些缺口的修复导致特征性的5-bp 目标位点重复。TnsC 是一种与 TnsAB 复合物、双链 DNA 和 TnsD 或 TnsE 中的一种相互作用的 ATP 酶
 
 Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(LE)和右端(RE)序列鉴定，并与转座酶蛋白(Tns)结合。Cas 蛋白以 PAM 依赖的 RNA 定向方式定向到感兴趣的靶基因座。Cas 结合将转座酶蛋白定位到感兴趣的目标序列，并促进目标位点的Cargo DNA整合进入基因组。
+
+### Prime editting
+以前的技术要么一次只改变一个碱基，要么是需要引入修复模版。通过将具有双重功能的融合蛋白（脱氨酶活性和内切酶活性）和经过修饰的RNA结合起来，Prime Editing允许引入所有突变类型，包括插入、缺失和12种碱基-碱基转换
+
+![image](https://user-images.githubusercontent.com/111955215/187591916-f67a0f9e-bedc-4517-a7a2-41cdc40fc6c7.png)
+
+在这个新方法中，sgRNA被prime editing guide RNA (pegRNA)取代，pegRNA不仅驱动内切酶，还包含引物结合位点(primer binding site, PBS)区域。PBS区域引入可以和逆转录酶(RT)结合序列，并以pegRNA的序列作为模板直接从pegRNA复制信息来引入到目标序列中。这种技术在人类细胞中可以引进12个点突变，实现范围是PAM上游3bp到下雨29 bp，插入达44 bp，缺失达80 bp。值得注意的是，Prime Editing的效率与碱基编辑器相似，但特异性比以往系统更高。特异性提高的原因是以往的CRISPR/Cas系统中，只有一种杂交即sgRNA与靶DNA的杂交。而在Prime Editing系统中，有三种杂交事件:靶DNA和pegRNA的间隔序列之间的杂交;目的DNA与PBS之间的杂交;靶DNA与RT产物之间的杂交。（但是效率更低）
+
+![image](https://user-images.githubusercontent.com/111955215/187591887-eb8379b6-a3e4-4ad8-952a-de50ab7c5e0c.png)
+
 
 ![image](https://user-images.githubusercontent.com/111955215/187115301-543520ce-7ece-41d1-970d-21ebdd16aebd.png)
 
