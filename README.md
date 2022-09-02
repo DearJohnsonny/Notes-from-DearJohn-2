@@ -5,6 +5,46 @@ Notes from DearJohn-2
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
 </div>
+# 靶向蛋白降解
+靶向蛋白质降解(targeted protein degradation TPD)目前主要通过泛素蛋白酶体和溶酶体降解目标蛋白，根据具体作用原理又可细分为近10个不同技术路线，其中发展最快的是分子胶和PROTAC技术。在真核细胞中，受损的蛋白质或细胞器主要通过两条相互独立，但又相互关联的途径进行清除，即蛋白酶体途径和溶酶体途径。一般来说，蛋白酶体通过泛素-蛋白酶体系统降解短寿命蛋白和可溶性错误折叠的蛋白，而溶酶体则通过内吞、吞噬或自噬途径降解长寿命蛋白、不溶性蛋白聚集体，以及其他大分子化合物和细菌、细胞器等。
+![image](https://user-images.githubusercontent.com/111955215/188146827-89721640-25dc-4b3d-b4c0-ca9cf8831aed.png)
+
+## PROTAC
+### 泛素
+泛素化作为蛋白翻译后修饰（PTM）的方式之一，不仅参与蛋白质的降解，在调节细胞功能方面也发挥着重要作用
+
+泛素为含76个氨基酸、大小约为8.6 kDa的小蛋白质，在真核生物中普遍存在且高度保守。人类基因组中的四个基因编码泛素：UBB，UBC，UBA52和RPS27A。
+
+泛素氨基酸序列：
+MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+
+泛素具有7个赖氨酸残基（K6，K11，K27，K29，K33，K48，K63）和一个甲硫氨酸残基（M1）。泛素之间主要通过赖氨酸残基和甲硫氨酸残基进行各种连接。由此产生的泛素链产生一定的拓扑结构，可通过对蛋白底物进行修饰并决定底物的功能。
+泛素蛋白的结构：
+
+![image](https://user-images.githubusercontent.com/111955215/188146930-f1a3176b-1ee8-48e1-9ff7-53822411c14c.png)
+
+泛素的功能位点：
+
+![image](https://user-images.githubusercontent.com/111955215/188147023-32ccb586-94e3-42a0-a09e-e25f97fdc130.png)
+
+泛素系统降解蛋白质的机制：
+
+![image](https://user-images.githubusercontent.com/111955215/188147254-50b82ed7-c8d5-42d9-9096-6c0d24f828d4.png)
+
+### PROTAC的优点
+* 极大地扩展了可成药蛋白靶点的范围。目前已鉴定出超过4000种疾病相关蛋白但只有约10%被成功开发，许多蛋白由于结构复杂、没有活性位点等原因无法被传统抑制剂靶向，而PROTAC只要能结合目标蛋白就可以诱导降解，可大大拓展可成药靶点的范围。
+* 传统小分子抑制剂只能阻断靶蛋白的部分功能，而PROTACs降解靶蛋白后可消除其所有功能。
+* 传统的激酶抑制剂容易因靶蛋白突变或过度上调而耐药，但PROTAC可通过降解靶蛋白来最大限度减少潜在的耐药性。
+* PROTAC理论上是可以循环使用的，因此催化剂量即可发挥作用，可提高药物的安全性。
+
+### 应用
+* 制备减毒活流感疫苗
+将可以靶向VHL（E3 ligand）序列的一段序列TPD（序列为ALAPYIP）插入到病毒基因组，从而将相应的病毒蛋白靶向到泛素-蛋白酶体途径中进行降解；同时为方便生产，再引入一段TEVp序列（序列为ENLYFQG）特定的菌可以表达这种TEVp蛋白，从而将TPD这段序列切掉，因此病毒的基因组完整，正常复制，便于生产。
+
+![image](https://user-images.githubusercontent.com/111955215/188148639-4bd07226-a478-4ab8-9b18-5514b29b5c64.png)
+
+## 溶酶体途径
+![image](https://user-images.githubusercontent.com/111955215/188148140-5da3caae-dfe1-4a4b-9065-a64ed8686c1e.png)
 
 # 关于肿瘤
 ## 肿瘤微环境 Tumor microenvironment
