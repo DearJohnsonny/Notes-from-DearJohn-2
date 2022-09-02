@@ -5,6 +5,7 @@ Notes from DearJohn-2
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
 </div>
+
 # 靶向蛋白降解
 靶向蛋白质降解(targeted protein degradation TPD)目前主要通过泛素蛋白酶体和溶酶体降解目标蛋白，根据具体作用原理又可细分为近10个不同技术路线，其中发展最快的是分子胶和PROTAC技术。在真核细胞中，受损的蛋白质或细胞器主要通过两条相互独立，但又相互关联的途径进行清除，即蛋白酶体途径和溶酶体途径。一般来说，蛋白酶体通过泛素-蛋白酶体系统降解短寿命蛋白和可溶性错误折叠的蛋白，而溶酶体则通过内吞、吞噬或自噬途径降解长寿命蛋白、不溶性蛋白聚集体，以及其他大分子化合物和细菌、细胞器等。
 ![image](https://user-images.githubusercontent.com/111955215/188146827-89721640-25dc-4b3d-b4c0-ca9cf8831aed.png)
@@ -45,6 +46,10 @@ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
 
 ## 溶酶体途径
 ![image](https://user-images.githubusercontent.com/111955215/188148140-5da3caae-dfe1-4a4b-9065-a64ed8686c1e.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/188149424-ad00b3af-8389-441f-9be3-345b14bc192f.png" width="1500">
+</div>
 
 # 关于肿瘤
 ## 肿瘤微环境 Tumor microenvironment
