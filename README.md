@@ -20,6 +20,18 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/190904838-b7185854-f114-4257-9c63-74c4978b2d8b.png" width="800">
 </div>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191238921-251e4acd-3282-4c11-b622-03d3edbadd22.png" width="1500">
+</div>
+
+# 酶进化系统
+
+## PACE
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191239109-5837f53c-9258-4dd1-9ff4-f75127130846.jpg" width="1500">
+</div>
+
 # 靶向蛋白降解
 靶向蛋白质降解(targeted protein degradation TPD)目前主要通过泛素蛋白酶体和溶酶体降解目标蛋白，根据具体作用原理又可细分为近10个不同技术路线，其中发展最快的是分子胶和PROTAC技术。在真核细胞中，受损的蛋白质或细胞器主要通过两条相互独立，但又相互关联的途径进行清除，即蛋白酶体途径和溶酶体途径。一般来说，蛋白酶体通过泛素-蛋白酶体系统降解短寿命蛋白和可溶性错误折叠的蛋白，而溶酶体则通过内吞、吞噬或自噬途径降解长寿命蛋白、不溶性蛋白聚集体，以及其他大分子化合物和细菌、细胞器等。
 ![image](https://user-images.githubusercontent.com/111955215/188146827-89721640-25dc-4b3d-b4c0-ca9cf8831aed.png)
