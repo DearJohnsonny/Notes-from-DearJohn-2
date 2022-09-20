@@ -11,13 +11,13 @@ Notes from DearJohn-2
 内含肽，即蛋白质内含子，是存在于前体蛋白质中的一段氨基酸序列，在前体蛋白转变为成熟蛋白的过程中，它靠自我剪切的方式从前体蛋白中释放出来，同时两端的肽链以肽键的方式相连，该过程即为蛋白质剪接。蛋白质剪接不同于RNA剪接，前者的剪接发生在蛋白质水平，而后者的剪接发生在RNA水平：它也不同于蛋白质翻译后加工，后者往往只是切除前体蛋白端或C端的一些片段，通常没有多肽链的形成：而且也不同于酶原活化，蛋白质剪接有新肽键的形成。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/190904759-5b423651-80c8-4afe-91ea-6d90d81e01d9.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/190904759-5b423651-80c8-4afe-91ea-6d90d81e01d9.png" width="500">
 </div>
 
 与内含肽相对应的是蛋白质外显肽，即内含肽两侧的氨基酸序列。位于内含肽端的序列称为N-外显肽，位于内含肽C端的序列称为C-外显肽。N-、C-外显肽在内含肽的作用下通过肽键连接成完整的成熟蛋白。内含肽有8种存在状态：剪接反应前称为融合内含肽，剪接反应后称为游离内含肽。两者的一级结构相同但功能却不同，前者可以自催化蛋白质前体的剪接反应，后者可作为归巢核酸内切酶参与内含肽归巢。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/190904838-b7185854-f114-4257-9c63-74c4978b2d8b.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/190904838-b7185854-f114-4257-9c63-74c4978b2d8b.png" width="500">
 </div>
 
 <div align=center>
@@ -34,6 +34,15 @@ Notes from DearJohn-2
 “泻湖”被新鲜宿主细胞的培养物不断地稀释。所有在泻湖内复制的DNA都通过工程诱变质粒进行诱变，以提供遗传多样性。只有编码功能性POI变异体的含SP基因能够比稀释速率更快地复制，从而使它们能够在泻湖中持续存在
 为了同时进化和选择功能，宿主细胞还含有诱变质粒(MP)。MP 使宿主细胞中的所有 DNA 发生随机突变，包括 SP 和宿主细胞基因组，以及细胞含有的任何质粒
 MP 在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中加入阿拉伯糖后诱变发生以保证突变的可控性。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191239799-d399706d-cf47-4969-a10c-21621fba69c9.png" width="1000">
+</div>
+阴性选择：由于进化酶的目标包括酶的特异性，因此研究者大多需要将用于进化的初始酶活性排除掉，因此需要阴性选择。即将原活性与一段无法表达的gⅢ基因联系起来，导致具有原活性的酶基因在筛选过程中无法富集
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191239813-07fd6595-2666-43f2-a20f-ce9d221b11a6.png" width="1000">
+</div>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191239109-5837f53c-9258-4dd1-9ff4-f75127130846.jpg" width="1500">
