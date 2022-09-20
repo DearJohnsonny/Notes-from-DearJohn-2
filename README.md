@@ -28,7 +28,7 @@ Notes from DearJohn-2
 
 ## PACE
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/191239383-4fe2630b-c719-4d49-a698-3b8136cba33b.png" width="700">
+<img src="https://user-images.githubusercontent.com/111955215/191239383-4fe2630b-c719-4d49-a698-3b8136cba33b.png" width="1000">
 </div>
 
 “泻湖”被新鲜宿主细胞的培养物不断地稀释。所有在泻湖内复制的DNA都通过工程诱变质粒进行诱变，以提供遗传多样性。只有编码功能性POI变异体的含SP基因能够比稀释速率更快地复制，从而使它们能够在泻湖中持续存在
