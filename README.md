@@ -50,6 +50,24 @@ MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中
 <img src="https://user-images.githubusercontent.com/111955215/191392406-41428edb-2d19-48a2-8d1b-9fd065632bfa.png" width="800">
 </div>
 
+当突变后的Cas蛋白能够和目标的dsDNA结合并产生一定的构象变化时，与之连接的RNA聚合酶的亚基也会受到激活，从而导致RNA聚合酶的活性，从而gⅢ基因能够表达
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191392823-957da485-74f5-4e61-9f8c-117500dc9d54.png" width="800">
+</div>
+
+由于Cas蛋白激活聚合酶的机制未知，研究者又开发出了更高效的筛选方法——功能化的筛选。由于筛选的Cas蛋白主要用于碱基点突变，因此在筛选时将点突变与Cas蛋白的活性联系起来。此处是有两段内含肽包裹的PAM序列以及中止密码子，只有成功将终止密码子点突变的Cas蛋白才可以使内含肽开始剪接并产生完整的gⅢ蛋白。
+
+提高筛选强度：两个密码子，同时减少数量
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191393464-63333f94-7b58-43d8-85af-e413dda0e97a.png" width="1500">
+</div>
+
+下图也是一样的思路：
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191393552-8e17d94c-4655-4d8b-80b0-59c5b28711b9.png" width="1500">
+</div>
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191239109-5837f53c-9258-4dd1-9ff4-f75127130846.jpg" width="1500">
 </div>
