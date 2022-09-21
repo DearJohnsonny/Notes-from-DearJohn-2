@@ -45,11 +45,9 @@ MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中
 </div>
 
 ### 用于不同PAM序列的Cas蛋白筛选
-![image](https://user-images.githubusercontent.com/111955215/191392213-1d5b79ac-9eea-420f-9f8d-29989d721c51.png)
-![image](https://user-images.githubusercontent.com/111955215/191392214-88dd1809-d4ed-46b2-ad9a-eeb18ce8b2c0.png)
 
 <div align=center>
-<img src="" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/191392406-41428edb-2d19-48a2-8d1b-9fd065632bfa.png" width="800">
 </div>
 
 <div align=center>
