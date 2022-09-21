@@ -112,6 +112,12 @@ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
 
 ### E3 ligand
 #### CRBN的lignand
+沙利度胺：
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191497823-0683ea0d-f24b-4c12-94d2-405283142865.png" width="400">
+</div>
+
 泊马度胺：
 
 <div align=center>
