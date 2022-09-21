@@ -32,8 +32,8 @@ Notes from DearJohn-2
 </div>
 
 “泻湖”被新鲜宿主细胞的培养物不断地稀释。所有在泻湖内复制的DNA都通过工程诱变质粒进行诱变，以提供遗传多样性。只有编码功能性POI变异体的含SP基因能够比稀释速率更快地复制，从而使它们能够在泻湖中持续存在
-为了同时进化和选择功能，宿主细胞还含有诱变质粒(MP)。MP 使宿主细胞中的所有 DNA 发生随机突变，包括 SP 和宿主细胞基因组，以及细胞含有的任何质粒
-MP 在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中加入阿拉伯糖后诱变发生以保证突变的可控性。
+为了同时进化和选择功能，宿主细胞还含有诱变质粒(MP)。MP使宿主细胞中的所有DNA发生随机突变，包括SP和宿主细胞基因组，以及细胞含有的任何质粒
+MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中加入阿拉伯糖后诱变发生以保证突变的可控性。
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191239799-d399706d-cf47-4969-a10c-21621fba69c9.png" width="1000">
@@ -42,6 +42,14 @@ MP 在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基�
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191239813-07fd6595-2666-43f2-a20f-ce9d221b11a6.png" width="1000">
+</div>
+
+### 用于不同PAM序列的Cas蛋白筛选
+![image](https://user-images.githubusercontent.com/111955215/191392213-1d5b79ac-9eea-420f-9f8d-29989d721c51.png)
+![image](https://user-images.githubusercontent.com/111955215/191392214-88dd1809-d4ed-46b2-ad9a-eeb18ce8b2c0.png)
+
+<div align=center>
+<img src="" width="800">
 </div>
 
 <div align=center>
