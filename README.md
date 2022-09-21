@@ -115,15 +115,16 @@ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
 泊马度胺：
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/191496847-fd5eecde-7da7-46c6-acad-ba583ac23c47.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/191496847-fd5eecde-7da7-46c6-acad-ba583ac23c47.png" width="400">
 </div>
 
 来那度胺：
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/191497158-e2f5e5d5-ff81-4a95-ae46-04616430c7a0.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/191497158-e2f5e5d5-ff81-4a95-ae46-04616430c7a0.png" width="400">
 </div>
 
 #### VHL的ligand
+
 ## 溶酶体途径
 ![image](https://user-images.githubusercontent.com/111955215/188148140-5da3caae-dfe1-4a4b-9065-a64ed8686c1e.png)
 
