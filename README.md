@@ -112,24 +112,28 @@ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
 
 ### E3 ligand
 #### CRBN的lignand
-沙利度胺：
+沙利度胺（其实这几种也可以作为分子胶）：
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191497823-0683ea0d-f24b-4c12-94d2-405283142865.png" width="400">
 </div>
 
-泊马度胺：
+泊马度胺(沙利度胺衍生物)：
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191496847-fd5eecde-7da7-46c6-acad-ba583ac23c47.png" width="400">
 </div>
 
-来那度胺：
+来那度胺(沙利度胺衍生物)：
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191497158-e2f5e5d5-ff81-4a95-ae46-04616430c7a0.png" width="400">
 </div>
 
-#### VHL的ligand
+### 泛素-蛋白酶体系统
+E3-E2之间的蛋白复合体有：E3(CRBN VHL MDM2 IAP DCAF15等)DDB1 CUL4A/B N8 RBX1 E2
+![image](https://user-images.githubusercontent.com/111955215/191650230-5621bd70-8deb-462c-b986-58972fdafe36.png)
+
+
 
 ## 溶酶体途径
 ![image](https://user-images.githubusercontent.com/111955215/188148140-5da3caae-dfe1-4a4b-9065-a64ed8686c1e.png)
