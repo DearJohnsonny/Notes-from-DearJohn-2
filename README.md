@@ -99,7 +99,7 @@ E3 ligand为DCAF15，降解的靶蛋白为splicing factor RNA binding motif prot
 
 与 IMiD 不同，磺胺类药物是 DCAF15 的弱配体，与DCAF15的亲和力也不强，而 RBM39 与DCAF15的结合亲和力也很弱。但是Indisulam 能够在DCAF15表面诱导一个浅袋并增强两种蛋白质之间的 PPI（主要是非极性相互作用）。
 
-###  CDK12/13:DDB1 glues trigger cyclin K degradation
+### 直接到DDB1而绕过E3 ligand_CDK12/13:DDB1 glues trigger cyclin K degradation
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191904547-e8782f1d-247f-44b3-a3ea-20896cb6f89e.png" width="800">
@@ -108,9 +108,6 @@ E3 ligand为DCAF15，降解的靶蛋白为splicing factor RNA binding motif prot
 最近出现了一种有趣的靶向蛋白质降解的替代机制，发现小分子可以将靶蛋白直接招募到 DDB1 衔接蛋白，绕过对专用底物受体的要求
 
 CR8 通过含有 DDB1 的 cullin-RING 连接酶触发细胞周期蛋白 K 的选择性降解
-
-### BCL6 glues induce polymerization and degradation of BCL6
-
 
 ## PROTAC
 ### 泛素
