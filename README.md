@@ -76,6 +76,18 @@ MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中
 靶向蛋白质降解(targeted protein degradation TPD)目前主要通过泛素蛋白酶体和溶酶体降解目标蛋白，根据具体作用原理又可细分为近10个不同技术路线，其中发展最快的是分子胶和PROTAC技术。在真核细胞中，受损的蛋白质或细胞器主要通过两条相互独立，但又相互关联的途径进行清除，即蛋白酶体途径和溶酶体途径。一般来说，蛋白酶体通过泛素-蛋白酶体系统降解短寿命蛋白和可溶性错误折叠的蛋白，而溶酶体则通过内吞、吞噬或自噬途径降解长寿命蛋白、不溶性蛋白聚集体，以及其他大分子化合物和细菌、细胞器等。
 ![image](https://user-images.githubusercontent.com/111955215/188146827-89721640-25dc-4b3d-b4c0-ca9cf8831aed.png)
 
+## 分子胶
+### 免疫调节的酰亚胺类药物Immunomodulatory imide drugs (IMiDs)
+主要包括沙利度胺及衍生物（来那度胺、泊马度胺），其作为分子胶的**单亲性**体现在和E3 ligand（即CRBN）的结合上
+
+沙利度胺及衍生物（来那度胺、泊马度胺）作为分子胶可靶向降解的蛋白质有：Ikaros 锌指蛋白 Ikaros (IKZF1) 、 Aiolos (IKZF3)、casein kinase 1A1 (CK1α)、translation factor GSPT1 (G1 to S phase transition 1)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/191903012-e751ac03-b66c-4b25-864c-4024ed823662.png" width="800">
+</div>
+
+GSPT1 shares no obvious homology to IKZF1,IKZF3, or CK1α and cannot be targeted for degradation by other IMiDs, such as lenalidomide and pomalidomide
+
 ## PROTAC
 ### 泛素
 泛素化作为蛋白翻译后修饰（PTM）的方式之一，不仅参与蛋白质的降解，在调节细胞功能方面也发挥着重要作用
