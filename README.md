@@ -15,6 +15,10 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/192540999-ca281373-dbca-4c69-bd8c-2738cbd2a5f3.png" width="800">
 </div>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192550807-a5a95a48-e437-48b6-a27f-6a3289b802d0.png" width="800">
+</div>
+
 FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219mV12和 -205mV。相较之下，完全还原/氧化是一个双电子过程，在 pH7的水溶液下，其中点电位约为 -200mV。
 
 氧倾向于参与包含一个电子，一个氢转移的逐步进行的反应。核黄素的化学特性非常适合这种反应。因此，在生物系统中添加含有核黄素的辅因子后，系统可以利用涉及离子氢化物转移(通过 NAD 或 NADP) ，自由基氢离子转移(通过 FMN，FAD)或抗坏血酸和一个电子加一个质子转移(通过 FMN 或 FAD)的机制进行一系列氧化还原反应。比如生物氧化过程中的电子传递链上的复合体Ⅰ和复合体Ⅱ
