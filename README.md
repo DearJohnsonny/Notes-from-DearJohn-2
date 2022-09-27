@@ -16,8 +16,9 @@ Notes from DearJohn-2
 </div>
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/192550807-a5a95a48-e437-48b6-a27f-6a3289b802d0.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/192550807-a5a95a48-e437-48b6-a27f-6a3289b802d0.png" width="400">
 </div>
+
 
 FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219mV12和 -205mV。相较之下，完全还原/氧化是一个双电子过程，在 pH7的水溶液下，其中点电位约为 -200mV。
 
