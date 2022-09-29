@@ -435,11 +435,11 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 研究者利用indel的MMR(mismatch repair)效率高于base-base的效率，开发了一种能提高base-base的prime editing效率的方法，即引入更多的同义突变(same-sense mutaion,ssm)，从而使得细胞的MMR从base-base变成indel repair，从而提高效率；而SSM又不会改变最终的蛋白表达，其转录组情况也得到验证为安全。对于不同的ORF，应该选择不同的突变策略。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/193042058-2e4c9c5e-b47b-4357-9731-070213cf32ad.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/193042058-2e4c9c5e-b47b-4357-9731-070213cf32ad.png" width="1000">
 </div>
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/193041244-659dd8a0-c644-42ed-987f-fa833b96a3d8.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/193041244-659dd8a0-c644-42ed-987f-fa833b96a3d8.png" width="800">
 </div>
 
 ## crispr工具的补充-迷你核酸酶IscB和TnpB
