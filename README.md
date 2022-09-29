@@ -423,6 +423,9 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 
 ![image](https://user-images.githubusercontent.com/111955215/187591887-eb8379b6-a3e4-4ad8-952a-de50ab7c5e0c.png)
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193016887-8b69d823-7dc4-44a3-b634-86360e2dfdcc.png" width="1500">
+</div>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187116466-90df7aa1-947d-4001-9d59-d6bab6d435bc.png" width="1500">
