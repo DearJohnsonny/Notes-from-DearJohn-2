@@ -25,6 +25,22 @@ PS：
 <img src="https://user-images.githubusercontent.com/111955215/192923743-92565861-64cd-4444-a150-1aed4706cb42.png" width="1500">
 </div>
 
+### 总结一下riboswitch的特点
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192927937-3eb25c40-1e77-4bbf-bdba-4fb139041922.png" width="1500">
+</div>
+
+* 很少有串联
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192928266-76538b52-029d-4611-8f80-9088e0437d52.png" width="1500">
+</div>
+
+* 自剪接的情况也不多（PS：大多数核酶的活性都是自剪接的活性）
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192928082-61a2fec2-d807-45ed-a46a-4c19339261f8.png" width="1500">
+</div>
+
 ## 黄素Flavin
 黄素是大多数生命形式所需要的黄色杂环分子，它们提供多种特定的催化任务。
 对于人类来说，黄素是从饮食中获得的维生素 B2。黄素蛋白在细胞中的辅基有黄素单核苷酸（FMN）或黄素腺嘌呤二核苷酸（FAD）。FMN和FAD分别附着有磷酸盐或二磷酸腺苷(ADP)，可以与蛋白质非共价或共价连接
