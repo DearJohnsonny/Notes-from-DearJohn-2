@@ -19,6 +19,12 @@ Notes from DearJohn-2
 PS：
 * Shine-Dalgarno （SD）是细菌和古细菌中信使RNA中核糖体结合位点序列。通常位于翻译起始密码子AUG上游约8~10个碱基位置。SD序列帮助招募核糖体RNA，并将核糖体比对并结合到信使RNA（mRNA）的起始密码子，从而开始蛋白质合成。
 
+### 非常规的核糖开关作用机制
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192923743-92565861-64cd-4444-a150-1aed4706cb42.png" width="1500">
+</div>
+
 ## 黄素Flavin
 黄素是大多数生命形式所需要的黄色杂环分子，它们提供多种特定的催化任务。
 对于人类来说，黄素是从饮食中获得的维生素 B2。黄素蛋白在细胞中的辅基有黄素单核苷酸（FMN）或黄素腺嘌呤二核苷酸（FAD）。FMN和FAD分别附着有磷酸盐或二磷酸腺苷(ADP)，可以与蛋白质非共价或共价连接
