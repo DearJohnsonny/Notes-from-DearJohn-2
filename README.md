@@ -11,7 +11,10 @@ Notes from DearJohn-2
  核糖开关（Riboswitches）是一类非编码RNA元件，主要存在于细菌mRNA（DNA也有，因此不仅可以影响翻译，还可以影响转录）的5′非编码区（5′UTR），通常由适配体（aptamer）和表达平台（expression platform）两个功能域组成。当特定分子（ligand，配体）结合适配体域时，会引起表达平台域的局部构象发生变化，从而打开或关闭下游基因的表达。核糖开关广泛存在于细菌中，它们在细菌的硫代谢、辅酶合成、氨基酸合成等基础代谢中发挥着非常重要的调控作用，迄今为止，已有20余类感应不同分子的核糖开关在细菌中被确认。
 
 ### 常规作用机制
-![image](https://user-images.githubusercontent.com/111955215/192923251-90ece5c4-a1a1-455c-a0f9-031e7c894f56.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/192923251-90ece5c4-a1a1-455c-a0f9-031e7c894f56.png" width="1500">
+</div>
 
 PS：
 * Shine-Dalgarno （SD）是细菌和古细菌中信使RNA中核糖体结合位点序列。通常位于翻译起始密码子AUG上游约8~10个碱基位置。SD序列帮助招募核糖体RNA，并将核糖体比对并结合到信使RNA（mRNA）的起始密码子，从而开始蛋白质合成。
