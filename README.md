@@ -28,15 +28,15 @@ PS：
 ### 总结一下riboswitch的特点
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/192927937-3eb25c40-1e77-4bbf-bdba-4fb139041922.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/192927937-3eb25c40-1e77-4bbf-bdba-4fb139041922.png" width="600">
 </div>
 
-* 很少有串联
+* 很少有串联，下面是例外
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/192928266-76538b52-029d-4611-8f80-9088e0437d52.png" width="1500">
 </div>
 
-* 自剪接的情况也不多（PS：大多数核酶的活性都是自剪接的活性）
+* 自剪接的情况也不多（PS：大多数核酶的活性都是自剪接的活性），下面是例外
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/192928082-61a2fec2-d807-45ed-a46a-4c19339261f8.png" width="1500">
 </div>
