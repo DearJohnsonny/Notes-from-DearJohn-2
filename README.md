@@ -6,6 +6,11 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
 </div>
 
+# 基础知识
+* 等温滴定量热法（ITC）：可用于直接测定配体溶液加入蛋白质溶液中时所释放的热量，从而得到熵和焓，从而得到热力学相关指标。
+* R·L —— R + L，Kd = [R][L]/[RL], Ka = [RL]/[R][L]，配体浓度越高，则R的利用率越高。on-rate = Kon[R][L],off-rate = Koff[RL]，Kd = Kon/Koff
+
+
 # 杂谈
 ## 核糖开关
  核糖开关（Riboswitches）是一类非编码RNA元件，主要存在于细菌mRNA（DNA也有，因此不仅可以影响翻译，还可以影响转录）的5′非编码区（5′UTR），通常由适配体（aptamer）和表达平台（expression platform）两个功能域组成。当特定分子（ligand，配体）结合适配体域时，会引起表达平台域的局部构象发生变化，从而打开或关闭下游基因的表达。核糖开关广泛存在于细菌中，它们在细菌的硫代谢、辅酶合成、氨基酸合成等基础代谢中发挥着非常重要的调控作用，迄今为止，已有20余类感应不同分子的核糖开关在细菌中被确认。
