@@ -19,13 +19,18 @@ Notes from DearJohn-2
 据估计，哺乳动物中的糖链大约有七千多种结构，其结构单体约为10种单糖（包括糖衍生物）：葡萄糖（Glc）、半乳糖（Gal）、甘露糖（MAN）、木糖（Xyl）、岩藻糖（Fuc）、N-乙酰氨基葡萄糖（GlcNAc）、N-乙酰半乳糖胺（GalNAc）、葡萄糖醛酸（GlcA）、艾杜糖醛酸（IDOA）、唾液酸（SA）。其中两种糖醛酸主要分布在蛋白聚糖中。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/193834469-4423defd-e218-4670-953b-841a70c161f6.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/193834469-4423defd-e218-4670-953b-841a70c161f6.png" width="800">
 </div>
 
 在基本氨基酸中，至少有9种氨基酸残基可以被糖基修饰。糖基可以通过多种方式与蛋白质相连，例如与Asn侧链的酰胺键相连（N-糖基化），通过糖苷键与Ser、Thr、羟基赖氨酸（胶原）或Tyr（糖原蛋白）的羟基相连（O-糖基化），或通过C-C键连接到Trp的C2位置（C-甘露糖基化）。另外，还可以通过糖基磷脂酰肌醇（GPI）锚间接与蛋白质相连。
 
 ### 分类
 * N-连接的糖基化（N-linked glycosylation）：与天冬酰胺残基的NH₂连接，连接的糖为N-乙酰葡糖胺(GlcNAc)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193840066-6f2cc2f5-cd1c-49a0-b252-9f09b6c2a72f.png" width="1500">
+</div>
+
 * O-连接的糖基化（O-linked glycosylation）：与Ser、Thr和Hyp的OH连接，连接的糖为半乳糖或N-乙酰半乳糖胺(GalNAc)，在高尔基体上进行O-连接的糖基化。
 
 <div align=center>
