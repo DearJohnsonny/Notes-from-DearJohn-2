@@ -28,6 +28,10 @@ Notes from DearJohn-2
 * N-连接的糖基化（N-linked glycosylation）：与天冬酰胺残基的NH₂连接，连接的糖为N-乙酰葡糖胺(GlcNAc)
 * O-连接的糖基化（O-linked glycosylation）：与Ser、Thr和Hyp的OH连接，连接的糖为半乳糖或N-乙酰半乳糖胺(GalNAc)，在高尔基体上进行O-连接的糖基化。
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193839249-273f379e-b260-43e3-99f2-1978cbc38319.png" width="700">
+</div>
+
 ## 核糖开关
  核糖开关（Riboswitches）是一类非编码RNA元件，主要存在于细菌mRNA（DNA也有，因此不仅可以影响翻译，还可以影响转录）的5′非编码区（5′UTR），通常由适配体（aptamer）和表达平台（expression platform）两个功能域组成。当特定分子（ligand，配体）结合适配体域时，会引起表达平台域的局部构象发生变化，从而打开或关闭下游基因的表达。核糖开关广泛存在于细菌中，它们在细菌的硫代谢、辅酶合成、氨基酸合成等基础代谢中发挥着非常重要的调控作用，迄今为止，已有20余类感应不同分子的核糖开关在细菌中被确认。
 
