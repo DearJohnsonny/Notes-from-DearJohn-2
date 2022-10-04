@@ -24,6 +24,10 @@ Notes from DearJohn-2
 
 在基本氨基酸中，至少有9种氨基酸残基可以被糖基修饰。糖基可以通过多种方式与蛋白质相连，例如与Asn侧链的酰胺键相连（N-糖基化），通过糖苷键与Ser、Thr、羟基赖氨酸（胶原）或Tyr（糖原蛋白）的羟基相连（O-糖基化），或通过C-C键连接到Trp的C2位置（C-甘露糖基化）。另外，还可以通过糖基磷脂酰肌醇（GPI）锚间接与蛋白质相连。
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193842458-9e9a580d-4ef0-48b8-9c39-7e46a594578f.png" width="1500">
+</div>
+
 ### 分类
 * N-连接的糖基化（N-linked glycosylation）：与天冬酰胺残基的NH₂连接，连接的糖为N-乙酰葡糖胺(GlcNAc)
 
