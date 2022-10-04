@@ -348,6 +348,8 @@ Cas13a 是一种VI-A型CRISPR-Cas RNA引导的 RNA 核糖核酸酶，降解CRISP
 <img src="https://user-images.githubusercontent.com/111955215/193725159-473ca881-4e43-4f2a-89ab-f2d8be2d9921.png" width="400">
 </div>
 
+这个位于靶激活的 Cas13复合物外表面的催化囊可以非特异性地切割任何周围的 RNA 分子，产生特征性的“附带效应”(collateral effect)。这种靶向触发的侧支活动，最初是一种旨在诱导宿主休眠和防止侵入噬菌体繁殖的免疫防御机制，已经被迅速开发用于体外检测核酸分子。例如，Cas13-crRNA复合物在靶标识别时被激活，并进行由单链RNA(ssRNA)连接的附近染料猝灭剂对的侧切以快速产生可测量的荧光或比色信号
+
 ### 用于检测
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
