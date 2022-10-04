@@ -44,7 +44,7 @@ Notes from DearJohn-2
 糖基化的作用可概括为3点：①使蛋白质能够抵抗消化酶的作用；②赋予蛋白质传导信号的功能；③某些蛋白只有在糖基化之后才能正确折叠。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/193846567-1cd9d141-98ba-456f-a812-ac8a5a081ad5.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/193846567-1cd9d141-98ba-456f-a812-ac8a5a081ad5.png" width="1100">
 </div>
 
 ## 核糖开关
