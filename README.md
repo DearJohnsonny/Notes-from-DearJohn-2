@@ -342,6 +342,12 @@ Cas13a 是一种VI-A型CRISPR-Cas RNA引导的 RNA 核糖核酸酶，降解CRISP
 <img src="https://user-images.githubusercontent.com/111955215/193724181-3090ceba-1439-4bbd-851c-922116690812.png" width="800">
 </div>
 
+其crRNA有一段repeat sequence，剩下的部分和target RNA形成RNA双链
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193725159-473ca881-4e43-4f2a-89ab-f2d8be2d9921.png" width="400">
+</div>
+
 ### 用于检测
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
