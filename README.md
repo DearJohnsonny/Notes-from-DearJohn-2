@@ -335,7 +335,14 @@ TCR的效力依赖于它与肽-主要组织相容性复合体（pMHC）的相互
 
 
 # 基因编辑
+## Cas 13
+Cas13a 是一种VI-A型CRISPR-Cas RNA引导的 RNA 核糖核酸酶，降解CRISPR RNA(crRNA)靶向的侵袭性RNA
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193724181-3090ceba-1439-4bbd-851c-922116690812.png" width="800">
+</div>
+
+### 用于检测
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
 
