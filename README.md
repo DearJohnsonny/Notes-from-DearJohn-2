@@ -30,6 +30,7 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 </div>
 
 (A) Brd2和Brd3促进基因转录。组蛋白中它们的溴结构域 (BD) 与乙酰化赖氨酸 (Ac) 之间的相互作用促进了RNA Pol II通过高乙酰化核小体延长新生转录本。箭头指示转录的方向;
+
 (B) Brd4在起始和延伸过程中调节基因转录。在启动子近端区域，由于正转录延伸因子b (P-TEFb) 的失活，RNA Pol II暂停，与7SK小核RNA (snRNA) 和HEXIM1蛋白形成复合物。Brd4增强对P-TEFb的募集会导致Pol II中的Ser2磷酸化，从而导致Pol II从转录延伸的停顿中释放出来。P-TEFb与Brd4和JMJD6与远端增强剂相关的相互作用也支持了暂停释放。Brd4通过其溴结构域 (Brd4中的红色圆圈) 与乙酰化赖氨酸相互作用，而P-TEFb与Brd4 CTD (Brd4中的绿色区域) 相互作用。此外，Brd4通过其溴结构域促进沿超乙酰化核小体上基因的新生RNA合成。
 
 <div align=center>
