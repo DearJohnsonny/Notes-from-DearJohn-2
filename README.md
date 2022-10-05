@@ -38,6 +38,13 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 <img src="https://user-images.githubusercontent.com/111955215/193975036-fad31cf1-88ba-4c60-854c-285341b0795e.png" width="800">
 </div>
 
+* BRD4与组蛋白和TFs的同时结合将稳定TFs与ENHs的结合，从而维持这些元件的转录活性。
+**总结一下：**
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193976853-143eeffd-88e4-403d-97a8-beaf90a707d8.png" width="1500">
+</div>
+
 抑制BET家族的蛋白活性之后可以降低其激活效应，可以通过下图的方式抑制BET家族蛋白作用
 
 <div align=center>
