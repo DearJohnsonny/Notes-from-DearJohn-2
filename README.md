@@ -16,7 +16,7 @@ Notes from DearJohn-2
 ## BRD4蛋白
 BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个串联溴结构域（BD1 and BD2）。
 
-### 关于溴结构域
+### 关于溴结构域和BET家族
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/193969353-d77671e5-0ee0-4ab4-a81e-3dab04e18f70.png" width="1500">
