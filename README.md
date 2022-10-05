@@ -39,6 +39,7 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 </div>
 
 * BRD4与组蛋白和TFs的同时结合将稳定TFs与ENHs的结合，从而维持这些元件的转录活性。
+
 **总结一下：**
 
 <div align=center>
