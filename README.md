@@ -52,6 +52,39 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 <img src="https://user-images.githubusercontent.com/111955215/193970686-bf380918-8a10-4f12-aea7-a48e55d9d4f9.png" width="800">
 </div>
 
+### BRD4的具体作用
+#### BRD4在炎症和免疫调节NF-κb途径中的作用
+BRD4通过至少四个途径调节TLR配体引起的NF-κb途径的激活:(1) BRD4通过其非典型组蛋白乙酰转移酶活性直接乙酰化RELA; 
+
+(2)BRD4直接促进RELA的磷酸化；
+
+(3-4)BRD4通过抑制NFKBIA的翻译和增加NFKBIA和IKBKB的磷酸化来促进RELA的磷酸化。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193994186-6ee17905-c934-45ab-87f3-285b6450601b.png" width="1500">
+</div>
+
+缩写: CDK9，细胞周期蛋白依赖性激酶9; CHUK，核因子κB激酶复合物的抑制剂; CycT1，cyclin T1; IKBKB，核因子κB激酶调节亚基β的抑制剂; IKBKG，核因子κB激酶调节亚基γ的抑制剂; NFKBIA，NFKB抑制剂α；NFKB1，核因子κB亚基1; p-TEFb，正转录延伸因子b; RELA，RELA原癌基因; RNA pol II，RNA聚合酶II; TLR，toll样受体
+
+#### BRD4在炎症和焦化中调节NLRP3途径的作用
+a在TNF引发的大鼠髓核细胞中，尿酸钠诱导急性痛风性关节炎，大脑中动脉闭塞诱导神经胶质活化，BRD4抑制RELA介导的NLRP3转录和随后的CASP1-dependent炎症小体活化。b在肾细胞癌组织和细胞中，RELA介导的NLRP3转录和随后的CASP1-dependent炎性体激活和GSDMD介导的焦磷酸病需要BRD4。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193994919-159b85cf-d5fe-4d67-b38f-f500f886d26d.png" width="1500">
+</div>
+
+缩写: BETi，bromodomain和extraterminal抑制剂; CASP1，caspase 1; GSDMD，gasdermin D; GSDMD-NT，gasdermin D的N-末端结构域; IL1B，白细胞介素1β; IL18，白细胞介素18; NLRP3，NOD样受体热蛋白结构域相关蛋白3（NLRP3）; PYCARD，PYD和CARD结构域; RELA，RELA原癌基因; TNF，肿瘤坏死因子
+
+#### BRD4在抗病毒免疫中调节STING1途径的作用
+
+来源于各种病毒的细胞质DNA激活CGAS，产生内源性环二核苷酸cGAMP，与位于内质网的STING1结合，进而促进STING1从ER到核周区的二聚和易位。在转运过程中，STING1招募并激活TBK1，刺激IRF3的磷酸化和核易位，并在较小程度上刺激NFKB1，从而导致1型IFN和其他炎性细胞因子 (例如IL) 的产生。IRF3和NFKB1的核活性被brd4抑制。此外，在BRD4抑制后，DDR的激活可诱导宿主dsDNA从细胞核释放到细胞质，导致CGAS-STING1途径进一步激活以限制病毒感染。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193994989-90813bf7-5da5-42f8-9ded-3db5a84e2fe5.png" width="1500">
+</div>
+
+缩写: cGAMP，环GMP-AMP; CGAS，环GMP-AMP合酶; DDR，DNA损伤反应; dsDNA，双链DNA; IFN，干扰素; IL，白细胞介素; IRF3，干扰素调节因子3; NFKB1，核因子κB亚基；STING1，干扰素反应刺激因子cGAMP交互因子1; TBK1，TANK结合激酶1
+
 ## 糖基化
 在蛋白质的多种翻译后修饰中，糖基化（glycosylation）是非常重要的一种。糖基在酶的催化下，与蛋白质上的某些残基形成共价连接，通常是糖苷键。
 
