@@ -18,6 +18,10 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 
 ### 关于溴结构域
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193969353-d77671e5-0ee0-4ab4-a81e-3dab04e18f70.png" width="1500">
+</div>
+
 ## 糖基化
 在蛋白质的多种翻译后修饰中，糖基化（glycosylation）是非常重要的一种。糖基在酶的催化下，与蛋白质上的某些残基形成共价连接，通常是糖苷键。
 
