@@ -22,10 +22,18 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 <img src="https://user-images.githubusercontent.com/111955215/193969353-d77671e5-0ee0-4ab4-a81e-3dab04e18f70.png" width="1500">
 </div>
 
+溴结构域家族的蛋白可以与沿染色质的高乙酰化组蛋白区域相互作用，结合乙酰化的赖氨酸残基，包括组蛋白。从而在转录活性调节元件上积累并在起始和延伸步骤中促进基因转录
+
 抑制BET家族的蛋白活性之后可以降低其激活效应
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/193969932-b20fd0e7-7e5a-44f8-b737-c8b1a0e13945.png" width="800">
+</div>
+
+除了上图以外，还可以通过下图的下2种方式抑制BET家族蛋白作用
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193970686-bf380918-8a10-4f12-aea7-a48e55d9d4f9.png" width="800">
 </div>
 
 ## 糖基化
