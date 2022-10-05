@@ -22,15 +22,21 @@ BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个�
 <img src="https://user-images.githubusercontent.com/111955215/193969353-d77671e5-0ee0-4ab4-a81e-3dab04e18f70.png" width="1500">
 </div>
 
-溴结构域家族的蛋白可以与沿染色质的高乙酰化组蛋白区域相互作用，结合乙酰化的赖氨酸残基，包括组蛋白。从而在转录活性调节元件上积累并在起始和延伸步骤中促进基因转录
-
-抑制BET家族的蛋白活性之后可以降低其激活效应
+* **与组蛋白赖氨酸残基的的乙酰化部位结合**：溴结构域家族的蛋白可以与沿染色质的高乙酰化组蛋白区域相互作用，结合乙酰化的赖氨酸残基，包括组蛋白。
+* **募集转录调节复合物**：BET家族可以招募转录机器，从而上调转录；而TFⅡD也含有BRD亚基，其通过与核心启动子序列结合并募集其他转录调节因子来促进转录起始（ZMYND8和NuRD是下调转录的）
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/193969932-b20fd0e7-7e5a-44f8-b737-c8b1a0e13945.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/193974002-1028bdd2-5167-4d68-abad-efa826dd3acd.png" width="800">
 </div>
 
-除了上图以外，还可以通过下图的下2种方式抑制BET家族蛋白作用
+(A) Brd2和Brd3促进基因转录。组蛋白中它们的溴结构域 (BD) 与乙酰化赖氨酸 (Ac) 之间的相互作用促进了RNA Pol II通过高乙酰化核小体延长新生转录本。箭头指示转录的方向;
+(B) Brd4在起始和延伸过程中调节基因转录。在启动子近端区域，由于正转录延伸因子b (P-TEFb) 的失活，RNA Pol II暂停，与7SK小核RNA (snRNA) 和HEXIM1蛋白形成复合物。Brd4增强对P-TEFb的募集会导致Pol II中的Ser2磷酸化，从而导致Pol II从转录延伸的停顿中释放出来。P-TEFb与Brd4和JMJD6与远端增强剂相关的相互作用也支持了暂停释放。Brd4通过其溴结构域 (Brd4中的红色圆圈) 与乙酰化赖氨酸相互作用，而P-TEFb与Brd4 CTD (Brd4中的绿色区域) 相互作用。此外，Brd4通过其溴结构域促进沿超乙酰化核小体上基因的新生RNA合成。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/193975036-fad31cf1-88ba-4c60-854c-285341b0795e.png" width="800">
+</div>
+
+抑制BET家族的蛋白活性之后可以降低其激活效应，可以通过下图的方式抑制BET家族蛋白作用
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/193970686-bf380918-8a10-4f12-aea7-a48e55d9d4f9.png" width="800">
