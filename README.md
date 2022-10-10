@@ -496,6 +496,8 @@ Cas9在protospacer序列上产生切割，大约在PAM前3bp的位置，且会�
 #### Cas12家族
 Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导向核酸也是crRNA而不是gRNA；Cas12核酸酶通常产生交错切割，这与Cas9的blunt切割不同。**Cas12a**通常使用富含T的PAM，这与大多数 Cas9的PAM不同。一般而言，Cas12a 变异体已被报道与许多 Cas9直系同源物相比产生少量脱靶编辑事件。
 
+![image](https://user-images.githubusercontent.com/111955215/194810928-dcf231b9-e23a-4914-b844-51236b49da06.png)
+
 #### 修复方法
 * 修复方法有两种：**非同源末端连接**（Non-homologous End Joining, **NHEJ**)和**同源引导修复**homology-directed repair(**HDR**)；
 * 非同源末端连接又分为经典非同源末端连接(classical nonhomologous end-joining, **c-NHEJ**)和微同源末端连接(microhomology-mediated end-joining, **MMEJ or alt-NHEJ**)
