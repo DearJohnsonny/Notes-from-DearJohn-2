@@ -10,7 +10,7 @@ Notes from DearJohn-2
 * 等温滴定量热法（ITC）：可用于直接测定配体溶液加入蛋白质溶液中时所释放的热量，从而得到熵和焓，从而得到热力学相关指标。
 * R·L —— R + L，Kd = [R][L]/[RL], Ka = [RL]/[R][L]，配体浓度越高，则R的利用率越高。因此配体即药物的浓度需要高过Kd10倍，从而[RL]:[R]大于10，超过90%的受体将被结合
 * on-rate = Kon[R][L],off-rate = Koff[RL]，Kd = Kon/Koff
-* crLacZ一般用作non-targeting control
+* crLacZ一般用作non-targeting control，作为没有靶向互补序列但可以招募Cas蛋白的阴性对照，序列为cgaatacgcccacgcgatgggt
 
 
 # 杂谈
