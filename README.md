@@ -4,7 +4,7 @@ Notes from DearJohn-2
 
 <a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-3/">Notes from DearJohn-3</a>
 
-<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-4/">Notes from DearJohn-4</a>
+<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-4/">Notes4-Linear-Algebra</a>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
