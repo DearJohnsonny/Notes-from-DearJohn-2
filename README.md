@@ -20,7 +20,13 @@ Notes from DearJohn-2
 # 杂谈
 ## TALE protein
 ### 简介
-TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构域不同于其他已知的DNA结合结构域。它是由不同数量的重复单元组成，每一个重复单元特异识别一个DNA碱基对。大多数情况下**每个重复单元由34个氨基酸**组成。这34个氨基酸中除了第12，13位的氨基酸变化较大之外，其他氨基酸高度保守。这**两个不保守的氨基酸被命名为RVD**（repeat variable diresidue）。
+TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/196022733-2b860e11-e161-4527-a049-69fe7f1190a9.png" width="1500">
+</div>
+
+TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构域不同于其他已知的DNA结合结构域。它是由不同数量的重复单元组成，每一个重复单元特异识别一个DNA碱基对。大多数情况下**每个重复单元由34个氨基酸**组成。这34个氨基酸中除了第12，13位的氨基酸变化较大之外，其他氨基酸高度保守。这**两个不保守的氨基酸被命名为RVD**（repeat variable diresidue）。
 
 ![image](https://user-images.githubusercontent.com/111955215/196022435-b52cd1e5-b924-45f7-aee0-3785bdcbb33d.png)
 
