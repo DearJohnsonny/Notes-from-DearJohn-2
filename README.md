@@ -19,7 +19,18 @@ Notes from DearJohn-2
 
 # 杂谈
 ## TALE protein
-TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构域不同于其他已知的DNA结合结构域。它是由不同数量的重复单元组成，每一个重复单元特异识别一个DNA碱基对。大多数情况下每个重复单元由34个氨基酸组成。这34个氨基酸中除了第12，13位的氨基酸变化较大之外，其他氨基酸高度保守。这两个不保守的氨基酸被命名为RVD（repeat variable diresidue）。每个重复序列中12，13位的氨基酸和识别的核苷酸种类有特殊的一一对应关系。TALE蛋白的特异DNA序列识别以及灵活的可组装性为它们在分子生物学中的应用提供了巨大的前景，科学家们可以设计组装任意的TALE单元去识别目标DNA双螺旋序列。这一特性已经被用来构造切割特异双链DNA序列的DNA酶TALEN (TALE nuclease)，成功用于在细胞基因组中引入定点突变、定点敲除等操作。理解TALE识别DNA的分子机制，会极大地促进其在生命科学领域的应用。
+### 简介
+TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构域不同于其他已知的DNA结合结构域。它是由不同数量的重复单元组成，每一个重复单元特异识别一个DNA碱基对。大多数情况下**每个重复单元由34个氨基酸**组成。这34个氨基酸中除了第12，13位的氨基酸变化较大之外，其他氨基酸高度保守。这**两个不保守的氨基酸被命名为RVD**（repeat variable diresidue）。
+
+![image](https://user-images.githubusercontent.com/111955215/196022435-b52cd1e5-b924-45f7-aee0-3785bdcbb33d.png)
+
+每个重复序列中12，13位的氨基酸和识别的核苷酸种类有特殊的一一对应关系。(NI for A, HD for C, NG for T, and NN for G)。
+
+下图为TALE文库的构建：
+
+![image](https://user-images.githubusercontent.com/111955215/196022466-e97c8fdb-7204-45bb-a4be-7ba9a4857879.png)
+### 应用
+TALE蛋白的特异DNA序列识别以及灵活的可组装性为它们在分子生物学中的应用提供了巨大的前景，科学家们可以设计组装任意的TALE单元去识别目标DNA双螺旋序列。这一特性已经被用来构造切割特异双链DNA序列的**DNA酶TALEN** (TALE nuclease)，成功用于在细胞基因组中引入定点突变、定点敲除等操作。理解TALE识别DNA的分子机制，会极大地促进其在生命科学领域的应用。
 ## BRD4蛋白
 BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个串联溴结构域（BD1 and BD2）。
 
