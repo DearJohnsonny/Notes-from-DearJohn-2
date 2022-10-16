@@ -23,7 +23,7 @@ Notes from DearJohn-2
 TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/196022733-2b860e11-e161-4527-a049-69fe7f1190a9.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/196022733-2b860e11-e161-4527-a049-69fe7f1190a9.png" width="900">
 </div>
 
 TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构域不同于其他已知的DNA结合结构域。它是由不同数量的重复单元组成，每一个重复单元特异识别一个DNA碱基对。大多数情况下**每个重复单元由34个氨基酸**组成。这34个氨基酸中除了第12，13位的氨基酸变化较大之外，其他氨基酸高度保守。这**两个不保守的氨基酸被命名为RVD**（repeat variable diresidue）。
@@ -36,7 +36,12 @@ TALE蛋白的奇特之处在于它的DNA结合结构域——该DNA结合结构�
 
 ![image](https://user-images.githubusercontent.com/111955215/196022466-e97c8fdb-7204-45bb-a4be-7ba9a4857879.png)
 ### 应用
-TALE蛋白的特异DNA序列识别以及灵活的可组装性为它们在分子生物学中的应用提供了巨大的前景，科学家们可以设计组装任意的TALE单元去识别目标DNA双螺旋序列。这一特性已经被用来构造切割特异双链DNA序列的**DNA酶TALEN** (TALE nuclease)，成功用于在细胞基因组中引入定点突变、定点敲除等操作。理解TALE识别DNA的分子机制，会极大地促进其在生命科学领域的应用。
+TALE蛋白的特异DNA序列识别以及灵活的可组装性为它们在分子生物学中的应用提供了巨大的前景，科学家们可以设计组装任意的TALE单元去识别目标DNA双螺旋序列。这一特性已经被用来构造切割特异双链DNA序列的**DNA酶TALEN** (TALE nuclease)，成功用于在细胞基因组中引入定点突变、定点敲除等操作（引入双链DNA断裂DSB之后用NHEJ或者HDR的方法进行编辑即可）。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/196022931-fe60aab6-5cd5-4179-bcc9-4297229973d9.png" width="900">
+</div>
+
 ## BRD4蛋白
 BET（Bromodomains and Extraterminal）家族成员，BRD4的特征是有两个串联溴结构域（BD1 and BD2）。
 
