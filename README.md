@@ -502,6 +502,27 @@ Cas13a 是一种VI-A型CRISPR-Cas RNA引导的 RNA 核糖核酸酶，降解CRISP
 <img src="https://user-images.githubusercontent.com/111955215/193725974-5f45b122-9153-44ed-bd61-a510128f6fb0.png" width="800">
 </div>
 
+## 基于TALE的基因编辑
+
+### 用TALE蛋白与脱氨酶DddA组成碱基编辑器
+2018年，de Moraes发现DddA具有催化胞嘧啶脱氨转变为尿嘧啶的活性，而且有意思的是，与其他的脱氨酶不同，这种作用可以直接在DNA双螺旋上发生，不需要解旋。
+
+Bacterial toxin DddA-derived cytosine base editors (DdCBEs)—composed of split DddAtox (a cytosine deaminase specifc to double-stranded DNA), custom-designed TALE (transcription activator-like efector) DNA-binding proteins, and a uracil glycosylase inhibitor。其可直接针对双链DNA将C-G碱基对编辑为T-A碱基对，而且编辑效率很高，也几乎没有脱靶效应
+
+该技术可以用于解决线粒体DNA的编辑问题（Cas9解决不了）：要想解旋DNA，就得带上Cas9酶；可带上了Cas9酶，就进不去线粒体
+
+要实现该方法还需要解决三个问题：
+* 毒性：胞苷脱氨酶对哺乳动物细胞来说是有生物毒性的。为了避免这种毒性，研究者们想出的办法是把DddA一拆两半，两个没有活性的部分在编辑位点重组恢复脱氨活性
+* 进线粒体的膜：加上线粒体靶向信号（MTS）蛋白序列，就能够利用线粒体的蛋白质吸收机制穿过线粒体的双层膜了
+* 为了保住DddA的作用不被干扰，还要再加上尿嘧啶糖基化酶抑制剂（UGI），把U保住
+
+![image](https://user-images.githubusercontent.com/111955215/196023581-2a80e559-4e82-4d56-aa38-8d6cf7d7a47b.png)
+
+仍然存在的问题：该技术在不破坏DNA的情况下将一个核苷酸碱基转换为另一个核苷酸碱基。然而，这种技术也有其局限性。它不仅局限于C→T转换，而且大多局限于TC基序，使它实际上成为TC→TT转换器。这意味着它只能纠正90个确认的致病性线粒体点突变中的9个（10%）。
+
+### 韩国人在DdCBE的基础上开发TALED
+<a href="https://www.cn-healthcare.com/articlewm/20220429/content-1346554.html/">新型线粒体碱基编辑器</a>
+
 ## 基于*CRISPR*的基因编辑
 基于CRISPR的基因编辑方式主要有四种，包括：**nucleases(核酸酶), base editors(碱基编辑器)**, transposases/recombinases(转座子/重组酶类) and prime editors(引物编辑器).
 
