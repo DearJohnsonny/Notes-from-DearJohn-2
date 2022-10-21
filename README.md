@@ -34,6 +34,8 @@ Notes from DearJohn-2
 
 需要在细胞中实现，判断是否有聚合活性靠的是再捕获，若有活性则可以延伸，从而与质粒可以结合配对
 
+同时由于质粒可以被recover，从而所获得的质粒编码的序列就是有活性的酶序列。这样可以实现具有活性的酶与其序列的对应性
+
 **Overview of the CST protocol**：
 * Polymerase repertoires are generated (A10) and expressed (B14) in bacterial cells. 
 * Bacterial cells are compartmentalized in a water-in-oil emulsion with synthetic nucleotide triphosphates (xNTP) and a short biotinylated selection primer (C22) for isolating genotype-phenotype combinations.
