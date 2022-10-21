@@ -55,7 +55,14 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/197186288-7d92fcdd-b10c-40ba-b921-aa796c88c78c.png" width="1500">
 </div>
 
-#### 
+### XNA polymerase和逆转录酶都被筛出来啦
+
+根据以上的CST方案，研究者以TgoT为模板突变出来了Pol6G12等酶，从而实现了以XNA为模板的复制和逆转录
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197190385-24a17f58-672b-492b-8577-d1415d197a95.png" width="1500">
+</div>
+
 ## TALE protein
 ### 简介
 TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。
