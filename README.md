@@ -64,10 +64,17 @@ Notes from DearJohn-2
 </div>
 
 ### 在上述基础上筛选XNAZymes
+XNAZymes的好处之一是可以减少被体内核酸酶切掉的现象，延长半衰期
+
+下图是大概的筛选流程：
 
 <div align=center>
-<img src="" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/197193321-55f22407-4d5b-486d-a923-78952fbeaf0f.png" width="1500">
 </div>
+
+
+针对不同的筛选目的（看不懂可以看看<a href="https://dearjohnsonny.github.io/Notes1-Biotech/">原文</a>），可以设计不同的模板（后续的步骤也比较类似就不展开了）
+
 
 ## TALE protein
 ### 简介
