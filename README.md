@@ -63,6 +63,12 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/197190385-24a17f58-672b-492b-8577-d1415d197a95.png" width="1500">
 </div>
 
+### 在上述基础上筛选XNAZymes
+
+<div align=center>
+<img src="" width="1500">
+</div>
+
 ## TALE protein
 ### 简介
 TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。
