@@ -45,6 +45,16 @@ Notes from DearJohn-2
 * Recovery of biotinylated primers also recovers plasmids still bound to the primer. Beads are washed in stringent conditions (TBT2 supplemented with 20% v/v formamide) to remove loosely bound plasmids, enriching the population for the genetic information of active polymerases (E34). 
 * Recovered plasmid DNA is amplified and used to start a new round of selection or screening.
 
+#### 新的筛选方法
+
+本方法使用珠子上的特有序列来分别捕获质粒、以及作为延伸引物来合成新的XNA链，同时用这种级联放大的方式来增强荧光
+
+本方法好在既可以将phenotype and genotype联系起来，又可以不破坏珠子
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197186288-7d92fcdd-b10c-40ba-b921-aa796c88c78c.png" width="1500">
+</div>
+
 #### 
 ## TALE protein
 ### 简介
