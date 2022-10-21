@@ -73,8 +73,11 @@ XNAZymes的好处之一是可以减少被体内核酸酶切掉的现象，延长
 </div>
 
 
-针对不同的筛选目的（看不懂可以看看<a href="https://dearjohnsonny.github.io/Notes1-Biotech/">原文</a>），可以设计不同的模板（后续的步骤也比较类似就不展开了）
+针对不同的筛选目的（看不懂可以看看<a href="https://www.nature.com/articles/nprot.2015.104">原文</a>），可以设计不同的模板（后续的步骤也比较类似就不展开了）
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197194321-ba863fa5-5529-46ce-91af-861a4305535a.png" width="1500">
+</div>
 
 ## TALE protein
 ### 简介
