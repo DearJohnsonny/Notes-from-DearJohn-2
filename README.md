@@ -34,19 +34,14 @@ Notes from DearJohn-2
 
 需要在细胞中实现，判断是否有聚合活性靠的是再捕获，若有活性则可以延伸，从而与质粒可以结合配对
 
-Overview of the CST protocol. Polymerase repertoires are generated (A10) and expressed (B14) in bacterial cells. 
-
-Bacterial cells are compartmentalized in a water-in-oil emulsion with synthetic nucleotide triphosphates (xNTP) and a short biotinylated selection primer (C22) for isolating genotype-phenotype combinations.
-
-Cells are disrupted by heat denaturation, allowing polymerase access to substrates (C23).
-
-Active polymerases, capable of incorporating the xNTPs, extend the selection primer, stabilizing its interaction with the plasmid. Inactive polymerase variants do not extend the primer (or do so poorly).
-
-Emulsions are disrupted and all plasmid DNA isolated. Excess unextended selection primers are removed by gel filtration (D27), and remaining biotinylated primers are captured (E33), using streptavidin-coated paramagnetic beads. 
-
-Recovery of biotinylated primers also recovers plasmids still bound to the primer. Beads are washed in stringent conditions (TBT2 supplemented with 20% v/v formamide) to remove loosely bound plasmids, enriching the population for the genetic information of active polymerases (E34). 
-
-Recovered plasmid DNA is amplified and used to start a new round of selection or screening.
+**Overview of the CST protocol**：
+* Polymerase repertoires are generated (A10) and expressed (B14) in bacterial cells. 
+* Bacterial cells are compartmentalized in a water-in-oil emulsion with synthetic nucleotide triphosphates (xNTP) and a short biotinylated selection primer (C22) for isolating genotype-phenotype combinations.
+* Cells are disrupted by heat denaturation, allowing polymerase access to substrates (C23).
+* Active polymerases, capable of incorporating the xNTPs, extend the selection primer, stabilizing its interaction with the plasmid. Inactive polymerase variants do not extend the primer (or do so poorly).
+* Emulsions are disrupted and all plasmid DNA isolated. Excess unextended selection primers are removed by gel filtration (D27), and remaining biotinylated primers are captured (E33), using streptavidin-coated paramagnetic beads. 
+* Recovery of biotinylated primers also recovers plasmids still bound to the primer. Beads are washed in stringent conditions (TBT2 supplemented with 20% v/v formamide) to remove loosely bound plasmids, enriching the population for the genetic information of active polymerases (E34). 
+* Recovered plasmid DNA is amplified and used to start a new round of selection or screening.
 
 #### 
 ## TALE protein
