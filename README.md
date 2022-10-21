@@ -18,6 +18,12 @@ Notes from DearJohn-2
 
 
 # 杂谈
+##  Xeno Nucleic Acids (XNAs) and their structures
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197179127-8fbcda6e-0f18-48c3-9785-d683d96765ab.png" width="900">
+</div>
+
 ## TALE protein
 ### 简介
 TALE (Transcription Activator Like Effectors)植物致病菌Xanthomonas通过III型分泌系统注入到宿主细胞内的一种蛋白质。
