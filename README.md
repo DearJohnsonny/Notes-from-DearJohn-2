@@ -339,7 +339,11 @@ MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中
 降解子可能是常规序列：degrons是嵌入在促进泛素化和降解的底物中的特定氨基酸序列。底物蛋白的N基端的部分短序列是最早发现的降解子，最近（2018）已经<a href="https://www.sciencedirect.com/science/article/pii/S009286741830521X?via%3Dihub">报道</a>
 了识别C末端降解子的E3连接酶。
 
-降解子是可能通过翻译后修饰 (PTMs) 产生的特定基团：例如通过E3连接酶VHL15识别脯氨酸氧化。此外，化学诱导降解子的小分子存在于自然界中 (例如，植物激素生长素)，这让人联想到IMIDs16的活性。因此，基于IMID的降解物可以通过这些机制之一化学模拟CRBN的沙利度胺结合结构域的内源性识别元件 (图1a)。
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197369621-20b1f8e0-ec04-4b6b-8d29-a942a8335119.png" width="800">
+</div>
+
+<a href="https://www.nature.com/articles/s41586-022-05333-5">2022年的文章</a>发现CRBN的在生物体内的目标蛋白包括蛋白质C基端通过翻译后修饰产生的环状酰亚胺(cyclic imide)。这些PTM由特定的酶产生，在蛋白质ageing期间或在特定的蛋白质剪接(例如，内蛋白切除) 期间自发环化。
 
 ## 分子胶
 ### 免疫调节的酰亚胺类药物Immunomodulatory imide drugs (IMiDs)
