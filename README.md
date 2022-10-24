@@ -306,7 +306,25 @@ FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219
 LncRNA可以与DNA相互作用，并形成RNA-DNA杂交链，例如R环，从而被染色质修饰剂或转录因子识别，并产生激活或抑制靶基因转录的效应
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/197430934-cc53f784-5e32-432f-b7ff-0b12ede5dc5d.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/197430934-cc53f784-5e32-432f-b7ff-0b12ede5dc5d.png" width="800">
+</div>
+
+#### 转录调节
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197432040-2e855065-da13-4365-a60e-fedeb5aee0ac.png" width="1500">
+</div>
+
+#### 细胞核的组织
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197432155-98ee8311-de5f-498c-81e2-a2ddfe08dd51.png" width="1500">
+</div>
+
+#### 转录后修饰
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197432319-ce6444d7-b023-48a8-a979-05fa044e9809.png" width="1500">
 </div>
 
 # 酶进化系统
