@@ -281,6 +281,18 @@ FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219
 <img src="https://user-images.githubusercontent.com/111955215/191238921-251e4acd-3282-4c11-b622-03d3edbadd22.png" width="1500">
 </div>
 
+# 非编码RNA
+## LncRNA
+定义：长于200个核苷酸且没有编码蛋白质的RNA。
+
+来自人类基因编码的统计数据表明，人类基因组包含16,000多个lncRNA基因，但其他估计超过100,000个人类lncRNA。
+
+和mRNA一样，LncRNA也会5'端加帽(7-methyl guanosine, m7G) 和3'端加Poly A的尾巴；也会有剪接
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197428984-e58b90a5-a506-4793-9063-8ca6a80679af.png" width="1500">
+</div>
+
 # 酶进化系统
 
 ## PACE
