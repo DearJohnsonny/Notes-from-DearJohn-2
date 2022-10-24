@@ -296,11 +296,18 @@ FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219
 ### 生物学功能
 #### 染色体调节
 招募染色质调节物：如下图中的HOTTIP这种LncRNA招募激活蛋白让HOXA基因激活
+
 ![image](https://user-images.githubusercontent.com/111955215/197430279-77b8f395-8699-4d4f-bdf4-1c41b1bc38e7.png)
+
 诱捕染色质调节剂：如下图的lncPRESS1这种LncRNA将一种组蛋白去乙酰化酶SIRT6给抢走了，导致其无法去掉目标基因序列的乙酰化，从而阻止该基因表达
+
 ![image](https://user-images.githubusercontent.com/111955215/197430385-607450b9-546e-4c43-ae5f-fa2fe239029e.png)
+
 LncRNA可以与DNA相互作用，并形成RNA-DNA杂交链，例如R环，从而被染色质修饰剂或转录因子识别，并产生激活或抑制靶基因转录的效应
-![image](https://user-images.githubusercontent.com/111955215/197430934-cc53f784-5e32-432f-b7ff-0b12ede5dc5d.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197430934-cc53f784-5e32-432f-b7ff-0b12ede5dc5d.png" width="600">
+</div>
 
 # 酶进化系统
 
