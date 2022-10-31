@@ -18,6 +18,18 @@ Notes from DearJohn-2
 
 
 # 杂谈
+## 靶向RNA的方法
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/198944569-aed05e46-a0f7-4508-99d2-9274d5d35f6b.png" width="1500">
+</div>
+
+IRE (iron- responsive element; translational regulation)
+
+splicing modulators (alternative pre- mRNA splicing including those that interact with U1 small nuclear RNA (snRNA))
+
+RNA repeat expansions (aberrant gain- of- function; microsatellite disorders) and Drosha and Dicer processing sites in microRNA (miRNA) precursors
+
 ## snRNA家族
 真核细胞有细胞核和细胞浆中都含有许多小RNA，它们约有100到300个碱基，每个细胞中可含有 $10^5 - 10^6$ 个这种RNA分子。它们是由RNA聚合酶Ⅱ或Ⅲ所合成的，其中某些像mRNA一样可被加帽。在细胞核中的小RNA称为snRNA，而在细胞浆中的称为scRNA。但在天然状态下它们均与蛋白质相结合，故分别称为snRNP和scRNP。某些snRNPs和剪接作用有密切关系。snRNAs中最受注意的一个是U1，它普遍存在于哺乳动物、鸟类和昆虫细胞中。
 
