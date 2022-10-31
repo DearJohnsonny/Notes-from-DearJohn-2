@@ -18,6 +18,12 @@ Notes from DearJohn-2
 
 
 # 杂谈
+## U1 snRNA and U1 snp
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/198942604-e9955497-9356-4a4d-b019-88983f7273be.png" width="1500">
+</div>
+
 ##  Xeno Nucleic Acids (XNAs) 
 
 <div align=center>
