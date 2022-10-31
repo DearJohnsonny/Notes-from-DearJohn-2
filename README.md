@@ -26,10 +26,16 @@ Notes from DearJohn-2
 </div>
 
 ### U1 snRNA and U1 snp
-应该是可以在RNA前体的剪接时抑制外显子的过早被切除，从而表达完整的mRNA
+应该是可以在RNA前体的剪接时抑制外显子的过早被加上Poly A，从而表达完整的mRNA
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/198942604-e9955497-9356-4a4d-b019-88983f7273be.png" width="1500">
+</div>
+
+以及辅助内含子的切除：
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/198943535-97afeb6a-1583-4fd7-b64b-9af47e4ff47c.png" width="1500">
 </div>
 
 ##  Xeno Nucleic Acids (XNAs) 
