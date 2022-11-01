@@ -29,6 +29,17 @@ Notes from DearJohn-2
 <img src="https://user-images.githubusercontent.com/111955215/199140062-8b8ebcb6-6dfa-455a-93cb-21101e065e9f.png" width="1500">
 </div>
 
+* 阿司匹林：通过在环氧合酶1的底物结合通道中乙酰化Ser529发挥抗炎作用，阻止底物花生四烯酸转化为前列腺素
+* 由青霉菌产生的 β-内酰胺类抗生素如青霉素与青霉素结合蛋白 (PBPs) 结合，PBP参与细菌细胞壁合成。所有PBPs均含有可被青霉素酰化的活性位点丝氨酸残基，从而抑制PBP活性并导致细胞膜破裂
+* 奥美拉唑，一种用于预防中风和心脏病发作的抗血小板药物（在共价效果被发现之前用于cure胃食管返流），在肝脏中被细胞色素P450酶激活，产生具有生物活性的硫醇代谢物
+
+### Covalent EGFR inhibitors
+从第一代到第二代的 抑制剂的发展涉及添加反应性丙烯酰胺亲电试剂以共价结合半胱氨酸残基 (Cys797)。在从第二代到第三代EFGR抑制剂的过程中，喹唑啉部分被嘧啶单元取代，以为T790M突变体提供选择性。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/199140999-8a59fade-44ac-4345-8f97-37f8ad3f6194.png" width="1500">
+</div>
+
 ## Phenotypic drug discovery(PDD)
 <a href="https://www.cn-healthcare.com/articlewm/20210309/content-1197023.html">使用表型筛选发现全新的药物及靶点</a>
 
