@@ -19,7 +19,7 @@ Notes from DearJohn-2
 当蛋白X和Y间没有相互作用时（两者的空间距离>10nm），融合蛋白X和Y分别产生相应的荧光而被检测到，如果蛋白X和Y间存在相互作用（两者的空间距离需<10nm，结合图2），用紫光激发融合蛋白X其产生的蓝光会被融合蛋白Y吸收，从而产生黄色荧光，这时，在细胞内将检测不到蓝色荧光的存在。这时因为能量从X融合蛋白转移到了Y融合蛋白，这就是荧光共振能量转移技术。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/199228152-b3e86e8f-da8c-4f41-b532-953d096ad452.png" width="900">
+<img src="https://user-images.githubusercontent.com/111955215/199228152-b3e86e8f-da8c-4f41-b532-953d096ad452.png" width="500">
 </div>
 
 ### 分子间荧光四联体 Fluorescent Intramolecular Tether (SNIFITs) 
