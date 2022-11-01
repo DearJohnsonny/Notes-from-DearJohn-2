@@ -15,6 +15,7 @@ Notes from DearJohn-2
 * R·L —— R + L，Kd = [R][L]/[RL], Ka = [RL]/[R][L]，配体浓度越高，则R的利用率越高。因此配体即药物的浓度需要高过Kd10倍，从而[RL]:[R]大于10，超过90%的受体将被结合
 * on-rate = Kon[R][L],off-rate = Koff[RL]，Kd = Kon/Koff
 * crLacZ一般用作non-targeting control，作为没有靶向互补序列但可以招募Cas蛋白的阴性对照，序列为cgaatacgcccacgcgatgggt
+* Halo Tag标签蛋白是一种脱卤素酶的遗传修饰衍生物，可与多种合成的Halo Tag配基有效地共价结合。这个分子量为33KDa的单体蛋白能融合在重组蛋白的N端或C端，并在原核和真核系统中表达。HaloTag配基是小分子化学物，能够在体外或体内与Halo Tag蛋白共价结合。这些配基由两个关键组分组成：(1)一个是通用的Halo Tag反应联结子，结合Halo Tag蛋白；(2)一个是功能基团,例如荧光染料或亲和媒介。
 
 
 # 杂谈
