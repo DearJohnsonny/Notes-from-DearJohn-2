@@ -43,14 +43,20 @@ Notes from DearJohn-2
 ## 丝氨酸整合酶及DNA整合
 
 ### 一些关于attB和attP的简介
+<a href="https://blog.addgene.org/plasmids-101-gateway-cloning">An introduction to Gateway technology</a>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/203915172-eb2ea5cb-50cc-4d02-83c1-35aeb5f085c9.png" width="1200">
 </div>
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/203915753-741766a3-9345-4f56-8468-be1a7ad99267.png" width="1200">
+<img src="https://user-images.githubusercontent.com/111955215/203915753-741766a3-9345-4f56-8468-be1a7ad99267.png" width="600">
 </div>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203916682-9f92a653-c782-42c6-b55f-6380e75a345b.png" width="1200">
+</div>
+
 
 ## 相分离 phase separation
 
