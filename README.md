@@ -51,13 +51,20 @@ AR蛋白是由33个氨基酸重复序列堆积而成，每个重复序列形成�
 实验者设计了一个共有AR模块，该模块由6个不同的潜在相互作用残基（可以是除半胱氨酸、甘氨酸和脯氨酸以外的任何氨基酸）和27个框架残基（26个是固定的，一个允许是天冬酰胺、组氨酸或酪氨酸）组成。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/204172948-bb3b3f05-b710-4bb8-b778-0747c5d72093.png" width="900">
+<img src="https://user-images.githubusercontent.com/111955215/204172948-bb3b3f05-b710-4bb8-b778-0747c5d72093.png" width="600">
 </div>
 
 通常来说，DARPin的结构包含4到6个重复结构，其中第一个(N-cap加帽重复结构)和最后一个(C-cap加帽重复结构)用于保护疏水蛋白核心不受水环境的影响，屏蔽疏水蛋白核心。少于3个重复序列的蛋白质不能形成足够稳定的三级结构。而DARPin的近似分子量取决于重复数。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/204173095-9e14569e-44a0-4ec6-9fb5-c3fef579f098.png" width="300">
+<img src="https://user-images.githubusercontent.com/111955215/204173095-9e14569e-44a0-4ec6-9fb5-c3fef579f098.png" width="400">
+</div>
+
+### 与普通单抗的优劣势
+常用的单克隆抗体是IgG抗体，其制备相对困难，成本很高；其结构域依赖于二硫键，因此在制备过程中需要避免还原性的胞内环境；一些抗体在加入特定的结构域之后会倾向于聚集；一些抗体在原核生物的表达系统中难以形成正确的三级结构。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/204173841-e25144a5-0029-4faf-9d48-35a990c110bc.png" width="700">
 </div>
 
 ## 丝氨酸整合酶及DNA整合
