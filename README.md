@@ -54,6 +54,12 @@ AR蛋白是由33个氨基酸重复序列堆积而成，每个重复序列形成�
 <img src="https://user-images.githubusercontent.com/111955215/204172948-bb3b3f05-b710-4bb8-b778-0747c5d72093.png" width="900">
 </div>
 
+通常来说，DARPin的结构包含4到6个重复结构，其中第一个(N-cap加帽重复结构)和最后一个(C-cap加帽重复结构)用于保护疏水蛋白核心不受水环境的影响，屏蔽疏水蛋白核心。少于3个重复序列的蛋白质不能形成足够稳定的三级结构。而DARPin的近似分子量取决于重复数。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/204173095-9e14569e-44a0-4ec6-9fb5-c3fef579f098.png" width="300">
+</div>
+
 ## 丝氨酸整合酶及DNA整合
 
 ### 一些关于attB和attP的简介
