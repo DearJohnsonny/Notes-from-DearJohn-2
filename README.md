@@ -12,6 +12,14 @@ Notes from DearJohn-2
 
 # 基础知识
 ## 单细胞测序
+### why single-seq？
+传统的研究方法，是在多细胞水平进行的。因此，最终得到的信号值，其实是多个细胞的平均，丢失了异质性的信息
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/204177452-03336866-06d6-4283-8012-bdfd1291930a.png" width="800">
+</div>
+
+### 具体原理
 对于3’单细胞转录组来说，每一个凝胶珠携带足量条的核酸链，而每条核酸链由read1 primer，细胞标签（barcode），分子标记（UMI），poly(dT)组成。一个凝胶珠上所有的核酸链的细胞标签（barcode）是相同的序列，而不同于其他凝胶珠上的细胞标签（barcode），用于标记细胞。一个凝胶珠上所有的核酸链的分子标记（UMI）是不同的，用于标记不同的RNA序列。
 
 下图中的PCR和T7是用来后续扩增用的
