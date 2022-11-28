@@ -43,6 +43,10 @@ Notes from DearJohn-2
 ## DARPin药物
 DARPins是眼科和肿瘤学领域，抗病毒药物领域正在开发的一种新型治疗药物，由molecular partners公司研发，全称“designedankyrin repeat proteins”，即经设计的锚蛋白重复折叠蛋白。它们在结构上不同于抗体，由连接的DARPin结合域的单链组成。
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/204174248-5aa4dbf0-af63-4da0-b887-133f7c9e382c.png" width="1500">
+</div>
+
 ### 锚蛋白重复结构域
 天然存在的锚蛋白重复结构域以高丰度存在于各种种属，在人类中，145个基因编码共计404个锚蛋白重复结构域。在自然界中，锚蛋白重复结构域经常出现在多功能蛋白质的环境中，这启发了研究人员通过设计锚蛋白重复折叠蛋白作为治疗候选药物
 
