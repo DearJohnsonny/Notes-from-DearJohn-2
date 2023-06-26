@@ -25,6 +25,7 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 * 随后去除蛋白部分，使用凝胶电泳和膜转移后将RNA蛋白复合物与游离的RNA分离开，再使用蛋白酶K将蛋白去除掉。这一步会在交联部分会留下一些氨基酸，从而导致交联的核酸部分有cDNA的truncation
 * 之后cDNA被重新合成用于后续高通量测序，通过生物信息学的方法可以分析具体的作用位点。
 
+
 ### 鉴别具体的RBP结合位点：借助ADAR的TRIBE方法（targets of RBPs identified by editing）
 
 现有的方法一般是将ADAR的catalytic domain融合到RBP上去，然后根据A-G的位点判断RBP的具体结合位点
