@@ -18,7 +18,6 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <img src="" width="1500">
 </div>
 
-![Uploading image.png…]()
 
 
 ## 单细胞测序
