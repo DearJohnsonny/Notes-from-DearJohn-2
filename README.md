@@ -21,7 +21,7 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 传统的研究方法，是在多细胞水平进行的。因此，最终得到的信号值，其实是多个细胞的平均，丢失了异质性的信息
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/204177452-03336866-06d6-4283-8012-bdfd1291930a.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/204177452-03336866-06d6-4283-8012-bdfd1291930a.png" width="400">
 </div>
 
 ### 具体原理
