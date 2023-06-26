@@ -31,6 +31,15 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/4ad5bdfd-68e7-4b6d-addd-c419bdd3e412" width="1500">
 </div>
 
+
+**2021年有一篇，快速的CLIP，从该工作可以得知adaptor的组成**
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/5132b227-c759-47ad-97d5-ed6477805811" width="1500">
+</div>
+
+<a href="https://doi.org/10.1038/s41467-021-21623-4">Nat Commun 12, 1569 (2021)</a>
+
 ### 鉴别具体的RBP结合位点：借助ADAR的TRIBE方法（targets of RBPs identified by editing）
 
 现有的方法一般是将ADAR的catalytic domain融合到RBP上去，然后根据A-G的位点判断RBP的具体结合位点
@@ -39,7 +48,7 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/10992a1b-692e-4215-90d3-551884dafdcb" width="1500">
 </div>
 
-2023-6有一篇nature chemical biology介绍了一种更优的方法，将RBP和ADAR分开，用Rapamycin来介导信号的触发
+**2023-6有一篇nature chemical biology介绍了一种更优的方法，将RBP和ADAR分开，用Rapamycin来介导信号的触发**
 
 <a href="https://www.nature.com/articles/s41589-023-01372-9">Profiling dynamic RNA–protein interactions using small-molecule-induced RNA editing</a>
 
