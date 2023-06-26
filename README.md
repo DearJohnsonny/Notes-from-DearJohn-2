@@ -18,6 +18,13 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/59ec9832-00e3-4f2a-810f-d1c85e5d0c2d" width="1500">
 </div>
 
+**workflow**
+* 首先使用UV在体内交联RNA与蛋白复合物，UV曝光后会在相近的蛋白以及核酸之间形成共价键
+* 随后裂解交联的细胞，片段化RNA，免疫沉淀分离目标蛋白。
+* 接下来为逆转录做准备，在RNA的3'末端添加RNA接头并标记RNA确保结合蛋白的RNA的信息被保留。
+* 随后去除蛋白部分，使用凝胶电泳和膜转移后将RNA蛋白复合物与游离的RNA分离开，再使用蛋白酶K将蛋白去除掉。这一步会在交联部分会留下一些氨基酸，从而导致交联的核酸部分有cDNA的truncation
+* 之后cDNA被重新合成用于后续高通量测序，通过生物信息学的方法可以分析具体的作用位点。
+
 ## 单细胞测序
 ### why single-seq？
 传统的研究方法，是在多细胞水平进行的。因此，最终得到的信号值，其实是多个细胞的平均，丢失了异质性的信息
