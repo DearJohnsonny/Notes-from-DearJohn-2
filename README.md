@@ -18,7 +18,7 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <img src="" width="1500">
 </div>
 
-
+我的奇偶的是水电费地方
 
 ## 单细胞测序
 ### why single-seq？
