@@ -27,6 +27,19 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 
 ### 鉴别具体的RBP结合位点：借助ADAR的TRIBE方法（targets of RBPs identified by editing）
 
+现有的方法一般是将ADAR的catalytic domain融合到RBP上去，然后根据A-G的位点判断RBP的具体结合位点
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/10992a1b-692e-4215-90d3-551884dafdcb" width="1500">
+</div>
+
+2023-6有一篇nature chemical biology介绍了一种更优的方法，将RBP和ADAR分开，用Rapamycin来介导信号的触发
+
+<a href="https://www.nature.com/articles/s41589-023-01372-9">Profiling dynamic RNA–protein interactions using small-molecule-induced RNA editing</a>
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/da4ebd8c-65ea-4e86-ab9f-25f8bee51d9a" width="1500">
+</div>
 
 ## 单细胞测序
 ### why single-seq？
