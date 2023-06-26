@@ -38,7 +38,7 @@ CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing�
 <a href="https://www.nature.com/articles/s41589-023-01372-9">Profiling dynamic RNA–protein interactions using small-molecule-induced RNA editing</a>
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/da4ebd8c-65ea-4e86-ab9f-25f8bee51d9a" width="1500">
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/da4ebd8c-65ea-4e86-ab9f-25f8bee51d9a" width="700">
 </div>
 
 ## 单细胞测序
