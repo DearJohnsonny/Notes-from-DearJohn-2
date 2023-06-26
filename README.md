@@ -15,9 +15,10 @@ Notes from DearJohn-2
 CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing，交联免疫共沉淀）是一种分子生物学的方法，其通过结合UV交联和免疫共沉淀的方法来分析蛋白与RNA相互作用的结合位点。从而研究ribonucleoprotein (RNP)复合物在转录及相关细胞过程中的相互作用。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187057747-7cb5e02e-5596-4bc4-a9b4-219cb731ee6c.png" width="1500">
+<img src="" width="1500">
 </div>
 
+![Uploading image.png…]()
 
 
 ## 单细胞测序
