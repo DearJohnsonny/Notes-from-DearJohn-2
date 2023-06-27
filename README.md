@@ -952,7 +952,6 @@ Cas12a，也叫Cpf1，会切割顺式的目标 DNA 和反式的非目标单链 D
 </div>
 
 
-
 Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导向核酸也是crRNA而不是gRNA（也就是说不需要tracrRNA，只用crRNA的反向互补的那点就够了）；Cas12核酸酶通常产生交错切割，这与Cas9的blunt切割不同。**Cas12a**通常使用富含T的PAM，这与大多数 Cas9的PAM不同。一般而言，Cas12a 变异体已被报道与许多 Cas9直系同源物相比产生少量脱靶编辑事件。
 
 ![image](https://user-images.githubusercontent.com/111955215/194810928-dcf231b9-e23a-4914-b844-51236b49da06.png)
