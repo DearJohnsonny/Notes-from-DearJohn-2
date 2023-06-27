@@ -945,13 +945,13 @@ Cas9在protospacer序列上产生切割，大约在PAM前3bp的位置，且会�
 ![image](https://user-images.githubusercontent.com/111955215/187073720-dd142f67-b156-4ad3-b898-9a3874fad9c3.png)
 
 #### Cas12家族
-Cas12a，也叫Cpf1，会切割顺式的目标 DNA 和反式的非目标单链 DNA (ssDNA) 
+Cas12a，也叫Cpf1，会切割顺式的目标DNA和反式的非目标单链 DNA (ssDNA) 
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/c16c6e1f-f578-412e-885a-591f935ee4c7" width="800">
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/c16c6e1f-f578-412e-885a-591f935ee4c7" width="400">
 </div>
 
-
+**文献见下链接**
 <a href="https://www.sciencedirect.com/science/article/pii/S1097276518309912?via%3Dihub">Mechanistic Insights into the cis- and trans-Acting DNase Activities of Cas12a</a>
 
 Cas12在远离PAM序列的位置产生切割，且只有RuvC进行切割，导向核酸也是crRNA而不是gRNA（也就是说不需要tracrRNA，只用crRNA的反向互补的那点就够了）；Cas12核酸酶通常产生交错切割，这与Cas9的blunt切割不同。**Cas12a**通常使用富含T的PAM，这与大多数 Cas9的PAM不同。一般而言，Cas12a 变异体已被报道与许多 Cas9直系同源物相比产生少量脱靶编辑事件。
