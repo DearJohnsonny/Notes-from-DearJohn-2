@@ -1002,6 +1002,35 @@ CBE使用**胞苷脱氨酶**将R环内的胞嘧啶转化为尿嘧啶，聚合酶
 
 ![image](https://user-images.githubusercontent.com/111955215/187060202-02d09a03-f312-4170-8a20-abf8eb9e324c.png)
 
+#### ACBE
+
+刘如谦团队在2023年6月又开发了一种ABE，可以实现从AT-CG的，这个过程和以往的AT-GC不同
+
+<a href="https://www.nature.com/articles/s41587-023-01821-9">Adenine transversion editors enable precise, efficient A•T-to-C•G base editing in mammalian cells and embryos</a>
+
+以前的碱基编辑策略比较有限：
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/1aead431-407a-4361-ba05-9516720c18e8" width="500">
+</div>
+
+但实际上各种碱基突变的情况都有：
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/c2cbeea0-d721-45c4-b3f6-0c0be3ddf966" width="500">
+</div>
+
+主要的原理就是在以往的TadA8e的基础之上进化了另一种糖基化酶，可以把突变后的I碱基给踢掉，而之后会被修复成为嘧啶，那么无论是修复成为T还是C，都可以达成目标：修复成为C，达成；修复成为T，则相当于AT-TA，之后再来一次脱氨反应，则TA-CG，相当于AT-CG，达成。
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/c90c4f0a-2af1-45f4-9977-b7276b151776" width="500">
+</div>
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/2cb71ec5-e291-4280-ac02-6ff908b2f794" width="500">
+</div>
+
+
 #### 常见的碱基编辑器的序列
 
 ![image](https://user-images.githubusercontent.com/111955215/187112477-2167805c-ee39-41fa-9d54-0ce374340e1c.png)
