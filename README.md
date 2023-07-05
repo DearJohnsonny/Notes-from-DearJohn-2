@@ -12,6 +12,12 @@ Notes from DearJohn-2
 PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record). 一个PDB文件通常包括很多不同类型的记录, 它们以特定的顺序排列, 用以描述结构.具体见下面的链接
 <a href="https://blog.sciencenet.cn/blog-548663-895916.html">PDB文件格式说明</a>
 
+关于原子比较细节，可以看下面这张图：
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/617e2c35-42cd-46a4-a2d4-354afa74741f" width="1500">
+</div>
+
 # 基础知识
 ## 关于CLIP
 CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing，交联免疫共沉淀）是一种分子生物学的方法，其通过结合UV交联和免疫共沉淀的方法来分析蛋白与RNA相互作用的结合位点。从而研究ribonucleoprotein (RNP)复合物在转录及相关细胞过程中的相互作用。
