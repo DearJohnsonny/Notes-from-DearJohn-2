@@ -9,6 +9,7 @@ Notes from DearJohn-2
 
 # 数据库操作
 ## PDB
+PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record). 一个PDB文件通常包括很多不同类型的记录, 它们以特定的顺序排列, 用以描述结构.具体见下面的链接
 <a href="https://blog.sciencenet.cn/blog-548663-895916.html">PDB文件格式说明</a>
 
 # 基础知识
