@@ -1038,7 +1038,6 @@ Tn7样转座子通常含有 tnsA、 tnsB、 tnsC、 tnsD 和 tnsE 基因，以�
 
 Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(LE)和右端(RE)序列鉴定，并与转座酶蛋白(Tns)结合。Cas 蛋白以 PAM 依赖的 RNA 定向方式定向到感兴趣的靶基因座。Cas 结合将转座酶蛋白定位到感兴趣的目标序列，并促进目标位点的Cargo DNA整合进入基因组。
 
-![image](https://user-images.githubusercontent.com/111955215/187115301-543520ce-7ece-41d1-970d-21ebdd16aebd.png)
 ### Prime editting
 以前的技术要么一次只改变一个碱基，要么是需要引入修复模版。通过将具有双重功能的融合蛋白（脱氨酶活性和内切酶活性）和经过修饰的RNA结合起来，Prime Editing允许引入所有突变类型，包括插入、缺失和12种碱基-碱基转换
 
