@@ -538,10 +538,6 @@ FAD 和 FMN 在 pH7.0溶液中双电子还原的氧化还原电位分别为 -219
 <img src="https://user-images.githubusercontent.com/111955215/190904838-b7185854-f114-4257-9c63-74c4978b2d8b.png" width="500">
 </div>
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/191238921-251e4acd-3282-4c11-b622-03d3edbadd22.png" width="1500">
-</div>
-
 # 信号通路
 ## P53
 ### 野生型和突变型p53在细胞生长方面的作用
@@ -650,10 +646,6 @@ MP在阿拉伯糖启动子的控制下表达诱变基因，在生长培养基中
 下图也是一样的思路：
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/191393552-8e17d94c-4655-4d8b-80b0-59c5b28711b9.png" width="1500">
-</div>
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/191239109-5837f53c-9258-4dd1-9ff4-f75127130846.jpg" width="1500">
 </div>
 
 # 靶向蛋白降解
