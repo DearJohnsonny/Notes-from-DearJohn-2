@@ -756,14 +756,8 @@ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
 E3-E2之间的蛋白复合体有：E3(CRBN VHL MDM2 IAP DCAF15等) - DDB1 - CUL4A/B - N8 - RBX1 - E2
 ![image](https://user-images.githubusercontent.com/111955215/191650230-5621bd70-8deb-462c-b986-58972fdafe36.png)
 
-
-
 ## 溶酶体途径
 ![image](https://user-images.githubusercontent.com/111955215/188148140-5da3caae-dfe1-4a4b-9065-a64ed8686c1e.png)
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/188149424-ad00b3af-8389-441f-9be3-345b14bc192f.png" width="1500">
-</div>
 
 # 关于肿瘤
 ## 肿瘤微环境 Tumor microenvironment
@@ -807,9 +801,6 @@ Lck是一种丝氨酸蛋白激酶，位于胞内且可以和CD4/8共受体结合
 
 ### 串行参与模型（serial engagement model）
 常与动力学校对机制并列提及。该模型阐述 TCR 与pMHC 达成紧密结合就像接力一样，即单个 pMHC 可与多个 TCR 进行连续性的接触，而这些连续性接触积累起来的结果，使得 TCR 与 pMHC 达到紧密结合，最终导致 T 细胞的完全活化
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187328231-564c8b09-2b38-4e16-8257-bb5927e61315.png" width="1500">
-</div>
 
 ## Car-T
 ![123](https://user-images.githubusercontent.com/111955215/187198651-62752b2b-988d-4f0f-bd8b-037fbd688aeb.png)
