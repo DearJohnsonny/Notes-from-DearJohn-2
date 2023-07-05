@@ -821,10 +821,6 @@ scFv由单克隆抗体的轻链（VL）和重链（VH）通过多肽连接而成
 
 ![1](https://user-images.githubusercontent.com/111955215/187201339-b35a7ff0-6634-448d-85c5-319ed79544fa.png)
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187209688-bfb04b5a-b8c8-4cea-ae3a-531712b06595.png" width="1500">
-</div>
-
 ## TCR-T
 ### 关于T细胞
 ![image](https://user-images.githubusercontent.com/111955215/187206889-ab90a064-9beb-4b21-8674-b91f0b6d200d.png)
@@ -1038,10 +1034,6 @@ Cas 转座酶包括 Cas 蛋白和转座酶相关组分。Cargo DNA 由其左端(
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/193016887-8b69d823-7dc4-44a3-b634-86360e2dfdcc.png" width="1500">
-</div>
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187116466-90df7aa1-947d-4001-9d59-d6bab6d435bc.png" width="1500">
 </div>
 
 #### 关于提高prime editing的编辑效率
