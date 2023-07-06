@@ -19,6 +19,13 @@ PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record)
 </div>
 
 # 基础知识
+## 关于激发和发射
+分子S0和S1态中各振动能级能量间隔的分布情况相似，故最终的两光谱峰型相似且对称
+
+<div align=center>
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/f359c3fd-cd50-4c82-a18d-4890db1d6de7" width="1500">
+</div>
+
 ## 关于CLIP
 CLIP（全称叫做Crosslinking immunoprecipitation-high-throughput-sequencing，交联免疫共沉淀）是一种分子生物学的方法，其通过结合UV交联和免疫共沉淀的方法来分析蛋白与RNA相互作用的结合位点。从而研究ribonucleoprotein (RNP)复合物在转录及相关细胞过程中的相互作用。
 
