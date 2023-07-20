@@ -25,6 +25,8 @@ PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record)
 <img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/44aa033f-80c5-42b1-a1a1-d200c07e74da" width="600">
 </div>
 
+<a href="http://muchong.com/html/201607/10459732.html">小木虫的脱Boc的方法</a>
+
 ## 激发、发射与吸收
 首先根据紫外可见吸收谱，以最大吸收波长作为荧光发射谱的激发波长，在此激发波长下测量荧光强度和发射波长的关系得到荧光发射谱，即可知道荧光发射波长。然后测量在此最大发射波长下的激发波长与荧光强度的关系即得到激发光谱。
 
