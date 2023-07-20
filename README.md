@@ -15,14 +15,14 @@ PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record)
 关于原子比较细节，可以看下面这张图：
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/617e2c35-42cd-46a4-a2d4-354afa74741f" width="400">
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/617e2c35-42cd-46a4-a2d4-354afa74741f" width="1500">
 </div>
 
 # 基础知识
 ## 脱Boc保护的方法
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/44aa033f-80c5-42b1-a1a1-d200c07e74da" width="1500">
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/44aa033f-80c5-42b1-a1a1-d200c07e74da" width="600">
 </div>
 
 ## 激发、发射与吸收
