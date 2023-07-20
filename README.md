@@ -15,7 +15,7 @@ PDB格式以文本格式给出信息, 每一行信息称为一个 记录(record)
 关于原子比较细节，可以看下面这张图：
 
 <div align=center>
-<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/617e2c35-42cd-46a4-a2d4-354afa74741f" width="800">
+<img src="https://github.com/DearJohnsonny/Notes2-Biotech/assets/111955215/617e2c35-42cd-46a4-a2d4-354afa74741f" width="400">
 </div>
 
 # 基础知识
